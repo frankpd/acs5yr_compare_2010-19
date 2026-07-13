@@ -2,7 +2,7 @@
 Scripts and output data that compare 5-year Census ACS period estimates from 2010-14 to 2015-19 to test for significant difference and reliability.
 
 
-| Summary                     | All Records |      | Filtered and Sorted |      |
+| Summary                     | All Records        | Filtered and Sorted        |
 |-----------------------------|-------------|------|---------------------|------|
 | (by)                        | Report      | Data | Report              | Data |
 | Total                       | TXT         | TSV  | TXT                 | TSV  |

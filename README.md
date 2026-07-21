@@ -82,14 +82,14 @@ The percentage of total estimates that are significantly different. Filtered opt
 
 ## Summary Data for Coefficient of Variation
 
-### Share of Records
-
-For estimates that were significantly different, the percentage of total estimates included in each category 
-
 Variable types include: 
  - all estimates
  - universe variables (the first variable in each table, the denominator from which other table variables are drawn)
  - summary variables (represent means, medians, and indicies)
+
+### Share of Records
+
+For estimates that were significantly different, the percentage of total estimates included in each category 
 
 | Summary by    | All Records |      |
 |---------------|-------------|------|

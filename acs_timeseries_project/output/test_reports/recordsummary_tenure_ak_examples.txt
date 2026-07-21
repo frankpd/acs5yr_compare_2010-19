@@ -1,0 +1,156 @@
+TENURE /  Occupied housing units / Total
+Alaska
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US02 |
+| est2014 |    251678 |
+| moe2014 |      1303 |
+| est2019 |    253346 |
+| moe2019 |      1463 |
+| change  |      1668 |
+| chgmoe  |      1959 |
+| pctchg  |       0.7 |
+| pctmoe  |       0.8 |
+| sigdif  |      1.40 |
+| sigtf   |     False |
+| est1cv  |       0.3 |
+| est2cv  |       0.4 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      71.4 |
+| cvpct   |      69.5 |
+| cvcrank |       low |
+| cvprank |       low |
++---------+-----------+
+
+TENURE /  Occupied housing units / Total
+Aleutians East Borough, Alaska
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US02013 |
+| est2014 |          577 |
+| moe2014 |          170 |
+| est2019 |          890 |
+| moe2019 |          125 |
+| change  |          313 |
+| chgmoe  |          211 |
+| pctchg  |         54.2 |
+| pctmoe  |         50.3 |
+| sigdif  |         2.44 |
+| sigtf   |         True |
+| est1cv  |         17.9 |
+| est2cv  |          8.5 |
+| cv1rank |       medium |
+| cv2rank |         high |
+| cvchg   |         41.0 |
+| cvpct   |         56.4 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+TENURE / Occupied housing units / Total / Owner occupied
+Alaska
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US02 |
+| est2014 |    159415 |
+| moe2014 |      1498 |
+| est2019 |    162996 |
+| moe2019 |      1930 |
+| change  |      3581 |
+| chgmoe  |      2443 |
+| pctchg  |       2.2 |
+| pctmoe  |       1.5 |
+| sigdif  |      2.41 |
+| sigtf   |      True |
+| est1cv  |       0.6 |
+| est2cv  |       0.7 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      41.5 |
+| cvpct   |      41.4 |
+| cvcrank |       low |
+| cvprank |       low |
++---------+-----------+
+
+TENURE / Occupied housing units / Total / Owner occupied
+Aleutians East Borough, Alaska
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US02013 |
+| est2014 |          324 |
+| moe2014 |           85 |
+| est2019 |          568 |
+| moe2019 |           85 |
+| change  |          244 |
+| chgmoe  |          120 |
+| pctchg  |         75.3 |
+| pctmoe  |         52.9 |
+| sigdif  |         3.34 |
+| sigtf   |         True |
+| est1cv  |         15.9 |
+| est2cv  |          9.1 |
+| cv1rank |       medium |
+| cv2rank |         high |
+| cvchg   |         29.9 |
+| cvpct   |         42.7 |
+| cvcrank |       medium |
+| cvprank |          low |
++---------+--------------+
+
+TENURE / Occupied housing units / Total / Renter occupied
+Alaska
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US02 |
+| est2014 |     92263 |
+| moe2014 |      1413 |
+| est2019 |     90350 |
+| moe2019 |      1815 |
+| change  |     -1913 |
+| chgmoe  |      2300 |
+| pctchg  |      -2.1 |
+| pctmoe  |       2.5 |
+| sigdif  |      1.37 |
+| sigtf   |     False |
+| est1cv  |       0.9 |
+| est2cv  |       1.2 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      73.1 |
+| cvpct   |      72.4 |
+| cvcrank |       low |
+| cvprank |       low |
++---------+-----------+
+
+TENURE / Occupied housing units / Total / Renter occupied
+Aleutians East Borough, Alaska
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US02013 |
+| est2014 |          253 |
+| moe2014 |           97 |
+| est2019 |          322 |
+| moe2019 |           58 |
+| change  |           69 |
+| chgmoe  |          113 |
+| pctchg  |         27.3 |
+| pctmoe  |         53.9 |
+| sigdif  |         1.00 |
+| sigtf   |        False |
+| est1cv  |         23.3 |
+| est2cv  |         10.9 |
+| cv1rank |       medium |
+| cv2rank |         high |
+| cvchg   |         99.6 |
+| cvpct   |        120.0 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+

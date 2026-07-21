@@ -1,0 +1,936 @@
+B01001 SEX BY AGE /  Total population / Total
+Delaware
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US10 |
+| est2014 |    917060 |
+| moe2014 |         0 |
+| est2019 |    957248 |
+| moe2019 |         0 |
+| change  |     40188 |
+| chgmoe  |         0 |
+| pctchg  |       4.4 |
+| pctmoe  |       0.0 |
+| sigdif  |      None |
+| sigtf   |      None |
+| est1cv  |       0.0 |
+| est2cv  |       0.0 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |       0.0 |
+| cvpct   |       0.0 |
+| cvcrank |      high |
+| cvprank |      high |
++---------+-----------+
+
+B01001 SEX BY AGE /  Total population / Total
+New Castle County, Delaware
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US10003 |
+| est2014 |       545846 |
+| moe2014 |            0 |
+| est2019 |       556165 |
+| moe2019 |            0 |
+| change  |        10319 |
+| chgmoe  |            0 |
+| pctchg  |          1.9 |
+| pctmoe  |          0.0 |
+| sigdif  |         None |
+| sigtf   |         None |
+| est1cv  |          0.0 |
+| est2cv  |          0.0 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |          0.0 |
+| cvpct   |          0.0 |
+| cvcrank |         high |
+| cvprank |         high |
++---------+--------------+
+
+B01001 SEX BY AGE /  Total population / Total
+Cape May city, Cape May County, New Jersey
++---------+-------------------+
+| varID   |             value |
++---------+-------------------+
+| geoid   | 06000US3400910270 |
+| est2014 |              3576 |
+| moe2014 |                25 |
+| est2019 |              3463 |
+| moe2019 |                27 |
+| change  |              -113 |
+| chgmoe  |                37 |
+| pctchg  |              -3.2 |
+| pctmoe  |               1.0 |
+| sigdif  |              5.05 |
+| sigtf   |              True |
+| est1cv  |               0.4 |
+| est2cv  |               0.5 |
+| cv1rank |              high |
+| cv2rank |              high |
+| cvchg   |              19.9 |
+| cvpct   |              19.0 |
+| cvcrank |            medium |
+| cvprank |            medium |
++---------+-------------------+
+
+B01001 SEX BY AGE /  Total population / Total
+Census Tract 9801, New Castle County, Delaware
++---------+--------------------+
+| varID   |              value |
++---------+--------------------+
+| geoid   | 14000US10003980100 |
+| est2014 |                  0 |
+| moe2014 |                 11 |
+| est2019 |                  0 |
+| moe2019 |                 12 |
+| change  |                  0 |
+| chgmoe  |                 16 |
+| pctchg  |               None |
+| pctmoe  |               None |
+| sigdif  |               0.00 |
+| sigtf   |              False |
+| est1cv  |               None |
+| est2cv  |               None |
+| cv1rank |               None |
+| cv2rank |               None |
+| cvchg   |               None |
+| cvpct   |               None |
+| cvcrank |               None |
+| cvprank |               None |
++---------+--------------------+
+
+B01001 SEX BY AGE /  Total population / Total
+Wilmington city, Delaware
++---------+----------------+
+| varID   |          value |
++---------+----------------+
+| geoid   | 16000US1077580 |
+| est2014 |          71263 |
+| moe2014 |             56 |
+| est2019 |          70644 |
+| moe2019 |             84 |
+| change  |           -619 |
+| chgmoe  |            101 |
+| pctchg  |           -0.9 |
+| pctmoe  |            0.1 |
+| sigdif  |          10.09 |
+| sigtf   |           True |
+| est1cv  |            0.0 |
+| est2cv  |            0.1 |
+| cv1rank |           high |
+| cv2rank |           high |
+| cvchg   |            9.9 |
+| cvpct   |            6.8 |
+| cvcrank |           high |
+| cvprank |           high |
++---------+----------------+
+
+B01001 SEX BY AGE /  Total population / Total
+ZCTA5 19703
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 86000US19703 |
+| est2014 |        15143 |
+| moe2014 |          753 |
+| est2019 |        15362 |
+| moe2019 |          720 |
+| change  |          219 |
+| chgmoe  |         1042 |
+| pctchg  |          1.4 |
+| pctmoe  |          6.9 |
+| sigdif  |         0.35 |
+| sigtf   |        False |
+| est1cv  |          3.0 |
+| est2cv  |          2.8 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |        289.2 |
+| cvpct   |        299.6 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+B23025 EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER / Population 16 years and over / Total / In labor force / Civilian labor force / Unemployed
+Delaware
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US10 |
+| est2014 |     39819 |
+| moe2014 |      1517 |
+| est2019 |     26481 |
+| moe2019 |      1306 |
+| change  |    -13338 |
+| chgmoe  |      2002 |
+| pctchg  |     -33.5 |
+| pctmoe  |       4.1 |
+| sigdif  |     10.96 |
+| sigtf   |      True |
+| est1cv  |       2.3 |
+| est2cv  |       3.0 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |       9.1 |
+| cvpct   |       7.4 |
+| cvcrank |      high |
+| cvprank |      high |
++---------+-----------+
+
+B23025 EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER / Population 16 years and over / Total / In labor force / Civilian labor force / Unemployed
+New Castle County, Delaware
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US10003 |
+| est2014 |        23496 |
+| moe2014 |         1201 |
+| est2019 |        17432 |
+| moe2019 |          987 |
+| change  |        -6064 |
+| chgmoe  |         1555 |
+| pctchg  |        -25.8 |
+| pctmoe  |          5.7 |
+| sigdif  |         6.42 |
+| sigtf   |         True |
+| est1cv  |          3.1 |
+| est2cv  |          3.4 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |         15.6 |
+| cvpct   |         13.4 |
+| cvcrank |       medium |
+| cvprank |         high |
++---------+--------------+
+
+B23025 EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER / Population 16 years and over / Total / In labor force / Civilian labor force / Unemployed
+Cape May city, Cape May County, New Jersey
++---------+-------------------+
+| varID   |             value |
++---------+-------------------+
+| geoid   | 06000US3400910270 |
+| est2014 |               159 |
+| moe2014 |                68 |
+| est2019 |                27 |
+| moe2019 |                24 |
+| change  |              -132 |
+| chgmoe  |                72 |
+| pctchg  |             -83.0 |
+| pctmoe  |              16.8 |
+| sigdif  |              3.01 |
+| sigtf   |              True |
+| est1cv  |              26.0 |
+| est2cv  |              54.0 |
+| cv1rank |            medium |
+| cv2rank |               low |
+| cvchg   |              33.2 |
+| cvpct   |              12.3 |
+| cvcrank |               low |
+| cvprank |              high |
++---------+-------------------+
+
+B23025 EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER / Population 16 years and over / Total / In labor force / Civilian labor force / Unemployed
+Census Tract 9801, New Castle County, Delaware
++---------+--------------------+
+| varID   |              value |
++---------+--------------------+
+| geoid   | 14000US10003980100 |
+| est2014 |                  0 |
+| moe2014 |                 11 |
+| est2019 |                  0 |
+| moe2019 |                 12 |
+| change  |                  0 |
+| chgmoe  |                 16 |
+| pctchg  |               None |
+| pctmoe  |               None |
+| sigdif  |               0.00 |
+| sigtf   |              False |
+| est1cv  |               None |
+| est2cv  |               None |
+| cv1rank |               None |
+| cv2rank |               None |
+| cvchg   |               None |
+| cvpct   |               None |
+| cvcrank |               None |
+| cvprank |               None |
++---------+--------------------+
+
+B23025 EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER / Population 16 years and over / Total / In labor force / Civilian labor force / Unemployed
+Wilmington city, Delaware
++---------+----------------+
+| varID   |          value |
++---------+----------------+
+| geoid   | 16000US1077580 |
+| est2014 |           4508 |
+| moe2014 |            502 |
+| est2019 |           2892 |
+| moe2019 |            421 |
+| change  |          -1616 |
+| chgmoe  |            655 |
+| pctchg  |          -35.8 |
+| pctmoe  |           11.8 |
+| sigdif  |           4.06 |
+| sigtf   |           True |
+| est1cv  |            6.8 |
+| est2cv  |            8.8 |
+| cv1rank |           high |
+| cv2rank |           high |
+| cvchg   |           24.6 |
+| cvpct   |           20.0 |
+| cvcrank |         medium |
+| cvprank |         medium |
++---------+----------------+
+
+B23025 EMPLOYMENT STATUS FOR THE POPULATION 16 YEARS AND OVER / Population 16 years and over / Total / In labor force / Civilian labor force / Unemployed
+ZCTA5 19703
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 86000US19703 |
+| est2014 |          801 |
+| moe2014 |          188 |
+| est2019 |          531 |
+| moe2019 |          165 |
+| change  |         -270 |
+| chgmoe  |          250 |
+| pctchg  |        -33.7 |
+| pctmoe  |         25.8 |
+| sigdif  |         1.78 |
+| sigtf   |         True |
+| est1cv  |         14.3 |
+| est2cv  |         18.9 |
+| cv1rank |         high |
+| cv2rank |       medium |
+| cvchg   |         56.3 |
+| cvpct   |         46.5 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+C24030 SEX BY INDUSTRY FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER / Civilian employed population 16 years and over / Total / Female / Agriculture forestry fishing and hunting and mining
+Delaware
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US10 |
+| est2014 |      1068 |
+| moe2014 |       213 |
+| est2019 |      1322 |
+| moe2019 |       266 |
+| change  |       254 |
+| chgmoe  |       341 |
+| pctchg  |      23.8 |
+| pctmoe  |      35.1 |
+| sigdif  |      1.23 |
+| sigtf   |     False |
+| est1cv  |      12.1 |
+| est2cv  |      12.2 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      81.6 |
+| cvpct   |      89.7 |
+| cvcrank |       low |
+| cvprank |       low |
++---------+-----------+
+
+C24030 SEX BY INDUSTRY FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER / Civilian employed population 16 years and over / Total / Female / Agriculture forestry fishing and hunting and mining
+New Castle County, Delaware
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US10003 |
+| est2014 |          355 |
+| moe2014 |          114 |
+| est2019 |          433 |
+| moe2019 |          150 |
+| change  |           78 |
+| chgmoe  |          188 |
+| pctchg  |         22.0 |
+| pctmoe  |         57.6 |
+| sigdif  |         0.68 |
+| sigtf   |        False |
+| est1cv  |         19.5 |
+| est2cv  |         21.1 |
+| cv1rank |       medium |
+| cv2rank |       medium |
+| cvchg   |        146.5 |
+| cvpct   |        159.2 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+C24030 SEX BY INDUSTRY FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER / Civilian employed population 16 years and over / Total / Female / Agriculture forestry fishing and hunting and mining
+Cape May city, Cape May County, New Jersey
++---------+-------------------+
+| varID   |             value |
++---------+-------------------+
+| geoid   | 06000US3400910270 |
+| est2014 |                 0 |
+| moe2014 |                12 |
+| est2019 |                 8 |
+| moe2019 |                13 |
+| change  |                 8 |
+| chgmoe  |                18 |
+| pctchg  |              None |
+| pctmoe  |              None |
+| sigdif  |              0.74 |
+| sigtf   |             False |
+| est1cv  |              None |
+| est2cv  |              98.8 |
+| cv1rank |              None |
+| cv2rank |               low |
+| cvchg   |             136.8 |
+| cvpct   |              None |
+| cvcrank |               low |
+| cvprank |              None |
++---------+-------------------+
+
+C24030 SEX BY INDUSTRY FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER / Civilian employed population 16 years and over / Total / Female / Agriculture forestry fishing and hunting and mining
+Census Tract 9801, New Castle County, Delaware
++---------+--------------------+
+| varID   |              value |
++---------+--------------------+
+| geoid   | 14000US10003980100 |
+| est2014 |                  0 |
+| moe2014 |                 11 |
+| est2019 |                  0 |
+| moe2019 |                 12 |
+| change  |                  0 |
+| chgmoe  |                 16 |
+| pctchg  |               None |
+| pctmoe  |               None |
+| sigdif  |               0.00 |
+| sigtf   |              False |
+| est1cv  |               None |
+| est2cv  |               None |
+| cv1rank |               None |
+| cv2rank |               None |
+| cvchg   |               None |
+| cvpct   |               None |
+| cvcrank |               None |
+| cvprank |               None |
++---------+--------------------+
+
+C24030 SEX BY INDUSTRY FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER / Civilian employed population 16 years and over / Total / Female / Agriculture forestry fishing and hunting and mining
+Wilmington city, Delaware
++---------+----------------+
+| varID   |          value |
++---------+----------------+
+| geoid   | 16000US1077580 |
+| est2014 |             58 |
+| moe2014 |             45 |
+| est2019 |             20 |
+| moe2019 |             26 |
+| change  |            -38 |
+| chgmoe  |             52 |
+| pctchg  |          -65.5 |
+| pctmoe  |           52.2 |
+| sigdif  |           1.20 |
+| sigtf   |          False |
+| est1cv  |           47.2 |
+| est2cv  |           79.0 |
+| cv1rank |            low |
+| cv2rank |            low |
+| cvchg   |           83.2 |
+| cvpct   |           48.4 |
+| cvcrank |            low |
+| cvprank |            low |
++---------+----------------+
+
+C24030 SEX BY INDUSTRY FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER / Civilian employed population 16 years and over / Total / Female / Agriculture forestry fishing and hunting and mining
+ZCTA5 19703
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 86000US19703 |
+| est2014 |            6 |
+| moe2014 |            8 |
+| est2019 |            0 |
+| moe2019 |           19 |
+| change  |           -6 |
+| chgmoe  |           21 |
+| pctchg  |       -100.0 |
+| pctmoe  |        316.7 |
+| sigdif  |         0.48 |
+| sigtf   |        False |
+| est1cv  |         81.1 |
+| est2cv  |         None |
+| cv1rank |          low |
+| cv2rank |         None |
+| cvchg   |        212.8 |
+| cvpct   |        192.5 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+B25010 AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE / Occupied housing units / Average household size / Total
+Delaware
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US10 |
+| est2014 |      2.63 |
+| moe2014 |      0.01 |
+| est2019 |      2.57 |
+| moe2019 |      0.02 |
+| change  |     -0.06 |
+| chgmoe  |      0.02 |
+| pctchg  |      -2.3 |
+| pctmoe  |       0.8 |
+| sigdif  |      4.41 |
+| sigtf   |      True |
+| est1cv  |       0.2 |
+| est2cv  |       0.5 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      20.3 |
+| cvpct   |      21.1 |
+| cvcrank |    medium |
+| cvprank |    medium |
++---------+-----------+
+
+B25010 AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE / Occupied housing units / Average household size / Total
+New Castle County, Delaware
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US10003 |
+| est2014 |         2.62 |
+| moe2014 |         0.02 |
+| est2019 |         2.62 |
+| moe2019 |         0.02 |
+| change  |         0.00 |
+| chgmoe  |         0.03 |
+| pctchg  |          0.0 |
+| pctmoe  |          1.1 |
+| sigdif  |         0.00 |
+| sigtf   |        False |
+| est1cv  |          0.5 |
+| est2cv  |          0.5 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |         None |
+| cvpct   |         None |
+| cvcrank |         None |
+| cvprank |         None |
++---------+--------------+
+
+B25010 AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE / Occupied housing units / Average household size / Total
+Cape May city, Cape May County, New Jersey
++---------+-------------------+
+| varID   |             value |
++---------+-------------------+
+| geoid   | 06000US3400910270 |
+| est2014 |              1.93 |
+| moe2014 |              0.13 |
+| est2019 |              2.08 |
+| moe2019 |              0.22 |
+| change  |              0.15 |
+| chgmoe  |              0.26 |
+| pctchg  |               7.8 |
+| pctmoe  |              13.5 |
+| sigdif  |              0.97 |
+| sigtf   |             False |
+| est1cv  |               4.1 |
+| est2cv  |               6.4 |
+| cv1rank |              high |
+| cv2rank |              high |
+| cvchg   |             105.4 |
+| cvpct   |             105.2 |
+| cvcrank |               low |
+| cvprank |               low |
++---------+-------------------+
+
+B25010 AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE / Occupied housing units / Average household size / Total
+Census Tract 9801, New Castle County, Delaware
++---------+--------------------+
+| varID   |              value |
++---------+--------------------+
+| geoid   | 14000US10003980100 |
+| est2014 |               None |
+| moe2014 |               None |
+| est2019 |               None |
+| moe2019 |               None |
+| change  |               None |
+| chgmoe  |               None |
+| pctchg  |               None |
+| pctmoe  |               None |
+| sigdif  |               None |
+| sigtf   |               None |
+| est1cv  |               None |
+| est2cv  |               None |
+| cv1rank |               None |
+| cv2rank |               None |
+| cvchg   |               None |
+| cvpct   |               None |
+| cvcrank |               None |
+| cvprank |               None |
++---------+--------------------+
+
+B25010 AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE / Occupied housing units / Average household size / Total
+Wilmington city, Delaware
++---------+----------------+
+| varID   |          value |
++---------+----------------+
+| geoid   | 16000US1077580 |
+| est2014 |           2.35 |
+| moe2014 |           0.05 |
+| est2019 |           2.33 |
+| moe2019 |           0.06 |
+| change  |          -0.02 |
+| chgmoe  |           0.08 |
+| pctchg  |           -0.9 |
+| pctmoe  |            3.3 |
+| sigdif  |           0.42 |
+| sigtf   |          False |
+| est1cv  |            1.3 |
+| est2cv  |            1.6 |
+| cv1rank |           high |
+| cv2rank |           high |
+| cvchg   |          243.2 |
+| cvpct   |          222.9 |
+| cvcrank |            low |
+| cvprank |            low |
++---------+----------------+
+
+B25010 AVERAGE HOUSEHOLD SIZE OF OCCUPIED HOUSING UNITS BY TENURE / Occupied housing units / Average household size / Total
+ZCTA5 19703
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 86000US19703 |
+| est2014 |          2.5 |
+| moe2014 |         0.11 |
+| est2019 |         2.54 |
+| moe2019 |         0.11 |
+| change  |         0.04 |
+| chgmoe  |         0.16 |
+| pctchg  |          1.6 |
+| pctmoe  |          6.3 |
+| sigdif  |         0.42 |
+| sigtf   |        False |
+| est1cv  |          2.7 |
+| est2cv  |          2.6 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |        243.2 |
+| cvpct   |        239.4 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+B25063 GROSS RENT /  With cash rent: /  $2,000 or more
+Delaware
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US10 |
+| est2014 |      2604 |
+| moe2014 |       374 |
+| est2019 |      4002 |
+| moe2019 |       425 |
+| change  |      1398 |
+| chgmoe  |       566 |
+| pctchg  |      53.7 |
+| pctmoe  |      27.5 |
+| sigdif  |      4.06 |
+| sigtf   |      True |
+| est1cv  |       8.7 |
+| est2cv  |       6.5 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      24.6 |
+| cvpct   |      31.1 |
+| cvcrank |    medium |
+| cvprank |       low |
++---------+-----------+
+
+B25063 GROSS RENT /  With cash rent: /  $2,000 or more
+New Castle County, Delaware
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US10003 |
+| est2014 |         1906 |
+| moe2014 |          335 |
+| est2019 |         3152 |
+| moe2019 |          357 |
+| change  |         1246 |
+| chgmoe  |          490 |
+| pctchg  |         65.4 |
+| pctmoe  |         34.6 |
+| sigdif  |         4.19 |
+| sigtf   |         True |
+| est1cv  |         10.7 |
+| est2cv  |          6.9 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |         23.9 |
+| cvpct   |         32.2 |
+| cvcrank |       medium |
+| cvprank |          low |
++---------+--------------+
+
+B25063 GROSS RENT /  With cash rent: /  $2,000 or more
+Cape May city, Cape May County, New Jersey
++---------+-------------------+
+| varID   |             value |
++---------+-------------------+
+| geoid   | 06000US3400910270 |
+| est2014 |                 0 |
+| moe2014 |                12 |
+| est2019 |                86 |
+| moe2019 |                70 |
+| change  |                86 |
+| chgmoe  |                71 |
+| pctchg  |              None |
+| pctmoe  |              None |
+| sigdif  |              1.99 |
+| sigtf   |              True |
+| est1cv  |              None |
+| est2cv  |              49.5 |
+| cv1rank |              None |
+| cv2rank |               low |
+| cvchg   |              50.2 |
+| cvpct   |              None |
+| cvcrank |               low |
+| cvprank |              None |
++---------+-------------------+
+
+B25063 GROSS RENT /  With cash rent: /  $2,000 or more
+Census Tract 9801, New Castle County, Delaware
++---------+--------------------+
+| varID   |              value |
++---------+--------------------+
+| geoid   | 14000US10003980100 |
+| est2014 |                  0 |
+| moe2014 |                 11 |
+| est2019 |                  0 |
+| moe2019 |                 24 |
+| change  |                  0 |
+| chgmoe  |                 26 |
+| pctchg  |               None |
+| pctmoe  |               None |
+| sigdif  |               0.00 |
+| sigtf   |              False |
+| est1cv  |               None |
+| est2cv  |               None |
+| cv1rank |               None |
+| cv2rank |               None |
+| cvchg   |               None |
+| cvpct   |               None |
+| cvcrank |               None |
+| cvprank |               None |
++---------+--------------------+
+
+B25063 GROSS RENT /  With cash rent: /  $2,000 or more
+Wilmington city, Delaware
++---------+----------------+
+| varID   |          value |
++---------+----------------+
+| geoid   | 16000US1077580 |
+| est2014 |            305 |
+| moe2014 |            125 |
+| est2019 |            375 |
+| moe2019 |            137 |
+| change  |             70 |
+| chgmoe  |            185 |
+| pctchg  |           23.0 |
+| pctmoe  |           67.5 |
+| sigdif  |           0.62 |
+| sigtf   |          False |
+| est1cv  |           24.9 |
+| est2cv  |           22.2 |
+| cv1rank |         medium |
+| cv2rank |         medium |
+| cvchg   |          160.7 |
+| cvpct   |          178.4 |
+| cvcrank |            low |
+| cvprank |            low |
++---------+----------------+
+
+B25063 GROSS RENT /  With cash rent: /  $2,000 or more
+ZCTA5 19703
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 86000US19703 |
+| est2014 |            0 |
+| moe2014 |           18 |
+| est2019 |           34 |
+| moe2019 |           63 |
+| change  |           34 |
+| chgmoe  |           66 |
+| pctchg  |         None |
+| pctmoe  |         None |
+| sigdif  |         0.85 |
+| sigtf   |        False |
+| est1cv  |         None |
+| est2cv  |        112.6 |
+| cv1rank |         None |
+| cv2rank |          low |
+| cvchg   |        118.0 |
+| cvpct   |         None |
+| cvcrank |          low |
+| cvprank |         None |
++---------+--------------+
+
+B25077 MEDIAN VALUE (DOLLARS) /  Owner-occupied housing units / Median value (dollars)
+Delaware
++---------+-----------+
+| varID   |     value |
++---------+-----------+
+| geoid   | 04000US10 |
+| est2014 |    253861 |
+| moe2014 |      1458 |
+| est2019 |    251100 |
+| moe2019 |      2236 |
+| change  |     -2761 |
+| chgmoe  |      2669 |
+| pctchg  |      -1.1 |
+| pctmoe  |       1.0 |
+| sigdif  |      1.70 |
+| sigtf   |      True |
+| est1cv  |       0.3 |
+| est2cv  |       0.5 |
+| cv1rank |      high |
+| cv2rank |      high |
+| cvchg   |      58.8 |
+| cvpct   |      55.3 |
+| cvcrank |       low |
+| cvprank |       low |
++---------+-----------+
+
+B25077 MEDIAN VALUE (DOLLARS) /  Owner-occupied housing units / Median value (dollars)
+New Castle County, Delaware
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 05000US10003 |
+| est2014 |       265306 |
+| moe2014 |         1832 |
+| est2019 |       260800 |
+| moe2019 |         2598 |
+| change  |        -4506 |
+| chgmoe  |         3179 |
+| pctchg  |         -1.7 |
+| pctmoe  |          1.2 |
+| sigdif  |         2.33 |
+| sigtf   |         True |
+| est1cv  |          0.4 |
+| est2cv  |          0.6 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |         42.9 |
+| cvpct   |         42.9 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+
+B25077 MEDIAN VALUE (DOLLARS) /  Owner-occupied housing units / Median value (dollars)
+Cape May city, Cape May County, New Jersey
++---------+-------------------+
+| varID   |             value |
++---------+-------------------+
+| geoid   | 06000US3400910270 |
+| est2014 |            613125 |
+| moe2014 |             78114 |
+| est2019 |            652900 |
+| moe2019 |             86908 |
+| change  |             39775 |
+| chgmoe  |            116854 |
+| pctchg  |               6.5 |
+| pctmoe  |              19.6 |
+| sigdif  |              0.56 |
+| sigtf   |             False |
+| est1cv  |               7.7 |
+| est2cv  |               8.1 |
+| cv1rank |              high |
+| cv2rank |              high |
+| cvchg   |             178.6 |
+| cvpct   |             183.3 |
+| cvcrank |               low |
+| cvprank |               low |
++---------+-------------------+
+
+B25077 MEDIAN VALUE (DOLLARS) /  Owner-occupied housing units / Median value (dollars)
+Census Tract 9801, New Castle County, Delaware
++---------+--------------------+
+| varID   |              value |
++---------+--------------------+
+| geoid   | 14000US10003980100 |
+| est2014 |               None |
+| moe2014 |               None |
+| est2019 |               None |
+| moe2019 |               None |
+| change  |               None |
+| chgmoe  |               None |
+| pctchg  |               None |
+| pctmoe  |               None |
+| sigdif  |               None |
+| sigtf   |               None |
+| est1cv  |               None |
+| est2cv  |               None |
+| cv1rank |               None |
+| cv2rank |               None |
+| cvchg   |               None |
+| cvpct   |               None |
+| cvcrank |               None |
+| cvprank |               None |
++---------+--------------------+
+
+B25077 MEDIAN VALUE (DOLLARS) /  Owner-occupied housing units / Median value (dollars)
+Wilmington city, Delaware
++---------+----------------+
+| varID   |          value |
++---------+----------------+
+| geoid   | 16000US1077580 |
+| est2014 |         186826 |
+| moe2014 |           5738 |
+| est2019 |         168000 |
+| moe2019 |           5295 |
+| change  |         -18826 |
+| chgmoe  |           7808 |
+| pctchg  |          -10.1 |
+| pctmoe  |            4.0 |
+| sigdif  |           3.97 |
+| sigtf   |           True |
+| est1cv  |            1.9 |
+| est2cv  |            1.9 |
+| cv1rank |           high |
+| cv2rank |           high |
+| cvchg   |           25.2 |
+| cvpct   |           24.1 |
+| cvcrank |         medium |
+| cvprank |         medium |
++---------+----------------+
+
+B25077 MEDIAN VALUE (DOLLARS) /  Owner-occupied housing units / Median value (dollars)
+ZCTA5 19703
++---------+--------------+
+| varID   |        value |
++---------+--------------+
+| geoid   | 86000US19703 |
+| est2014 |       224322 |
+| moe2014 |         6638 |
+| est2019 |       213800 |
+| moe2019 |         5731 |
+| change  |       -10522 |
+| chgmoe  |         8770 |
+| pctchg  |         -4.7 |
+| pctmoe  |          3.8 |
+| sigdif  |         1.97 |
+| sigtf   |         True |
+| est1cv  |          1.8 |
+| est2cv  |          1.6 |
+| cv1rank |         high |
+| cv2rank |         high |
+| cvchg   |         50.7 |
+| cvpct   |         49.1 |
+| cvcrank |          low |
+| cvprank |          low |
++---------+--------------+
+

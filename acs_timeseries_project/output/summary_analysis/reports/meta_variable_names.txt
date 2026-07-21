@@ -1,0 +1,324 @@
+Variables
+
++------------+------------------------------------------------------------------------------------------------------------+
+| varid      | varname                                                                                                    |
++------------+------------------------------------------------------------------------------------------------------------+
+| b01001_001 |  Total Population - Total                                                                                  |
+| b01001_002 | Total - Male                                                                                               |
+| b01001_003 | Male - Under 5 Years                                                                                       |
+| b01001_004 | Male - 5 To 9 Years                                                                                        |
+| b01001_005 | Male - 10 To 14 Years                                                                                      |
+| b01001_006 | Male - 15 To 17 Years                                                                                      |
+| b01001_007 | Male - 18 And 19 Years                                                                                     |
+| b01001_008 | Male - 20 Years                                                                                            |
+| b01001_009 | Male - 21 Years                                                                                            |
+| b01001_010 | Male - 22 To 24 Years                                                                                      |
+| b01001_011 | Male - 25 To 29 Years                                                                                      |
+| b01001_012 | Male - 30 To 34 Years                                                                                      |
+| b01001_013 | Male - 35 To 39 Years                                                                                      |
+| b01001_014 | Male - 40 To 44 Years                                                                                      |
+| b01001_015 | Male - 45 To 49 Years                                                                                      |
+| b01001_016 | Male - 50 To 54 Years                                                                                      |
+| b01001_017 | Male - 55 To 59 Years                                                                                      |
+| b01001_018 | Male - 60 And 61 Years                                                                                     |
+| b01001_019 | Male - 62 To 64 Years                                                                                      |
+| b01001_020 | Male - 65 And 66 Years                                                                                     |
+| b01001_021 | Male - 67 To 69 Years                                                                                      |
+| b01001_022 | Male - 70 To 74 Years                                                                                      |
+| b01001_023 | Male - 75 To 79 Years                                                                                      |
+| b01001_024 | Male - 80 To 84 Years                                                                                      |
+| b01001_025 | Male - 85 Years And Over                                                                                   |
+| b01001_026 | Total - Female                                                                                             |
+| b01001_027 | Female - Under 5 Years                                                                                     |
+| b01001_028 | Female - 5 To 9 Years                                                                                      |
+| b01001_029 | Female - 10 To 14 Years                                                                                    |
+| b01001_030 | Female - 15 To 17 Years                                                                                    |
+| b01001_031 | Female - 18 And 19 Years                                                                                   |
+| b01001_032 | Female - 20 Years                                                                                          |
+| b01001_033 | Female - 21 Years                                                                                          |
+| b01001_034 | Female - 22 To 24 Years                                                                                    |
+| b01001_035 | Female - 25 To 29 Years                                                                                    |
+| b01001_036 | Female - 30 To 34 Years                                                                                    |
+| b01001_037 | Female - 35 To 39 Years                                                                                    |
+| b01001_038 | Female - 40 To 44 Years                                                                                    |
+| b01001_039 | Female - 45 To 49 Years                                                                                    |
+| b01001_040 | Female - 50 To 54 Years                                                                                    |
+| b01001_041 | Female - 55 To 59 Years                                                                                    |
+| b01001_042 | Female - 60 And 61 Years                                                                                   |
+| b01001_043 | Female - 62 To 64 Years                                                                                    |
+| b01001_044 | Female - 65 And 66 Years                                                                                   |
+| b01001_045 | Female - 67 To 69 Years                                                                                    |
+| b01001_046 | Female - 70 To 74 Years                                                                                    |
+| b01001_047 | Female - 75 To 79 Years                                                                                    |
+| b01001_048 | Female - 80 To 84 Years                                                                                    |
+| b01001_049 | Female - 85 Years And Over                                                                                 |
+| b01002_001 | Median Age - Total                                                                                         |
+| b01002_002 | Median Age - Male                                                                                          |
+| b01002_003 | Median Age - Female                                                                                        |
+| b02001_001 |  Total Population - Total                                                                                  |
+| b02001_002 | Total - White Alone                                                                                        |
+| b02001_003 | Total - Black Or African American Alone                                                                    |
+| b02001_004 | Total - American Indian And Alaska Native Alone                                                            |
+| b02001_005 | Total - Asian Alone                                                                                        |
+| b02001_006 | Total - Native Hawaiian And Other Pacific Islander Alone                                                   |
+| b02001_007 | Total - Some Other Race Alone                                                                              |
+| b02001_008 | Total - Two Or More Races                                                                                  |
+| b02001_009 | Two Or More Races - Two Races Including Some Other Race                                                    |
+| b02001_010 | Two Or More Races - Two Races Excluding Some Other Race And Three Or More Races                            |
+| b03002_001 |  Total Population - Total                                                                                  |
+| b03002_002 | Total - Not Hispanic Or Latino                                                                             |
+| b03002_003 | Not Hispanic Or Latino - White Alone                                                                       |
+| b03002_004 | Not Hispanic Or Latino - Black Or African American Alone                                                   |
+| b03002_005 | Not Hispanic Or Latino - American Indian And Alaska Native Alone                                           |
+| b03002_006 | Not Hispanic Or Latino - Asian Alone                                                                       |
+| b03002_007 | Not Hispanic Or Latino - Native Hawaiian And Other Pacific Islander Alone                                  |
+| b03002_008 | Not Hispanic Or Latino - Some Other Race Alone                                                             |
+| b03002_009 | Not Hispanic Or Latino - Two Or More Races                                                                 |
+| b03002_010 | Two Or More Races - Two Races Including Some Other Race                                                    |
+| b03002_011 | Two Or More Races - Two Races Excluding Some Other Race And Three Or More Races                            |
+| b03002_012 | Total - Hispanic Or Latino                                                                                 |
+| b03002_013 | Hispanic Or Latino - White Alone                                                                           |
+| b03002_014 | Hispanic Or Latino - Black Or African American Alone                                                       |
+| b03002_015 | Hispanic Or Latino - American Indian And Alaska Native Alone                                               |
+| b03002_016 | Hispanic Or Latino - Asian Alone                                                                           |
+| b03002_017 | Hispanic Or Latino - Native Hawaiian And Other Pacific Islander Alone                                      |
+| b03002_018 | Hispanic Or Latino - Some Other Race Alone                                                                 |
+| b03002_019 | Hispanic Or Latino - Two Or More Races                                                                     |
+| b03002_020 | Two Or More Races - Two Races Including Some Other Race                                                    |
+| b03002_021 | Two Or More Races - Two Races Excluding Some Other Race And Three Or More Races                            |
+| b05002_001 |  Total Population - Total                                                                                  |
+| b05002_002 | Total - Native                                                                                             |
+| b05002_003 | Native - Born In State Of Residence                                                                        |
+| b05002_004 | Native - Born In Other State In The United States                                                          |
+| b05002_005 | Born In Other State In The United States - Northeast                                                       |
+| b05002_006 | Born In Other State In The United States - Midwest                                                         |
+| b05002_007 | Born In Other State In The United States - South                                                           |
+| b05002_008 | Born In Other State In The United States - West                                                            |
+| b05002_009 | Native - Born Outside The United States                                                                    |
+| b05002_010 | Born Outside The United States - Puerto Rico                                                               |
+| b05002_011 | Born Outside The United States - U.S. Island Areas                                                         |
+| b05002_012 | Born Outside The United States - Born Abroad Of American Parent(S)                                         |
+| b05002_013 | Total - Foreign Born                                                                                       |
+| b05002_014 | Foreign Born - Naturalized U.S. Citizen                                                                    |
+| b05002_021 | Foreign Born - Not A U.S. Citizen                                                                          |
+| b07204_001 |  Population 1 Year And Over In The United States - Total                                                   |
+| b07204_002 | Total - Same House 1 Year Ago                                                                              |
+| b07204_003 | Total - Different House In United States 1 Year Ago                                                        |
+| b07204_004 | Different House In United States 1 Year Ago - Same City Or Town                                            |
+| b07204_005 | Same City Or Town - Same County                                                                            |
+| b07204_006 | Same City Or Town - Different County (Same State)                                                          |
+| b07204_007 | Different House In United States 1 Year Ago - Elsewhere                                                    |
+| b07204_008 | Elsewhere - Same County                                                                                    |
+| b07204_009 | Elsewhere - Different County                                                                               |
+| b07204_010 | Different County - Same State                                                                              |
+| b07204_011 | Different County - Different State                                                                         |
+| b07204_012 | Different State - Northeast                                                                                |
+| b07204_013 | Different State - Midwest                                                                                  |
+| b07204_014 | Different State - South                                                                                    |
+| b07204_015 | Different State - West                                                                                     |
+| b07204_016 | Total - Abroad 1 Year Ago                                                                                  |
+| b07204_017 | Abroad 1 Year Ago - Puerto Rico                                                                            |
+| b07204_018 | Abroad 1 Year Ago - U.S. Island Areas                                                                      |
+| b07204_019 | Abroad 1 Year Ago - Foreign Country                                                                        |
+| b08006_001 |  Workers 16 Years And Over - Total                                                                         |
+| b08006_002 | Total - Car Truck Or Van                                                                                   |
+| b08006_003 | Car Truck Or Van - Drove Alone                                                                             |
+| b08006_004 | Car Truck Or Van - Carpooled                                                                               |
+| b08006_005 | Carpooled - In 2-Person Carpool                                                                            |
+| b08006_006 | Carpooled - In 3-Person Carpool                                                                            |
+| b08006_007 | Carpooled - In 4-Or-More-Person Carpool                                                                    |
+| b08006_008 | Total - Public Transportation (Excluding Taxicab)                                                          |
+| b08006_009 | Public Transportation (Excluding Taxicab) - Bus                                                            |
+| b08006_010 | Public Transportation (Excluding Taxicab) - Subway Or Elevated Rail                                        |
+| b08006_011 | Public Transportation (Excluding Taxicab) - Long-Distance Train Or Commuter Rail                           |
+| b08006_012 | Public Transportation (Excluding Taxicab) - Light Rail Streetcar Or Trolley (Carro P·Blico In Puerto Rico) |
+| b08006_013 | Public Transportation (Excluding Taxicab) - Ferryboat                                                      |
+| b08006_014 | Total - Bicycle                                                                                            |
+| b08006_015 | Total - Walked                                                                                             |
+| b08006_016 | Total - Taxicab Motorcycle Or Other Means                                                                  |
+| b08006_017 | Total - Worked From Home                                                                                   |
+| b11001_001 |  Households - Total                                                                                        |
+| b11001_002 | Total - Family Households                                                                                  |
+| b11001_003 | Family Households - Married-Couple Family                                                                  |
+| b11001_004 | Family Households - Other Family                                                                           |
+| b11001_005 | Other Family - Male Householder No Spouse Present                                                          |
+| b11001_006 | Other Family - Female Householder No Spouse Present                                                        |
+| b11001_007 | Total - Nonfamily Households                                                                               |
+| b11001_008 | Nonfamily Households - Householder Living Alone                                                            |
+| b11001_009 | Nonfamily Households - Householder Not Living Alone                                                        |
+| b13002_001 |  Women 15 To 50 Years - Total                                                                              |
+| b13002_002 | Total - Women Who Had A Birth In The Past 12 Months                                                        |
+| b13002_003 | Women Who Had A Birth In The Past 12 Months - Now Married (Including Separated And Spouse Absent)          |
+| b13002_004 | Now Married (Including Separated And Spouse Absent) - 15 To 19 Years Old                                   |
+| b13002_005 | Now Married (Including Separated And Spouse Absent) - 20 To 34 Years Old                                   |
+| b13002_006 | Now Married (Including Separated And Spouse Absent) - 35 To 50 Years Old                                   |
+| b13002_007 | Women Who Had A Birth In The Past 12 Months - Unmarried (Never Married Widowed And Divorced)               |
+| b13002_008 | Unmarried (Never Married Widowed And Divorced) - 15 To 19 Years Old                                        |
+| b13002_009 | Unmarried (Never Married Widowed And Divorced) - 20 To 34 Years Old                                        |
+| b13002_010 | Unmarried (Never Married Widowed And Divorced) - 35 To 50 Years Old                                        |
+| b13002_011 | Total - Women Who Did Not Have A Birth In The Past 12 Months                                               |
+| b13002_012 | Women Who Did Not Have A Birth In The Past 12 Months - Now Married (Including Separated And Spouse Absent) |
+| b13002_013 | Now Married (Including Separated And Spouse Absent) - 15 To 19 Years Old                                   |
+| b13002_014 | Now Married (Including Separated And Spouse Absent) - 20 To 34 Years Old                                   |
+| b13002_015 | Now Married (Including Separated And Spouse Absent) - 35 To 50 Years Old                                   |
+| b13002_016 | Women Who Did Not Have A Birth In The Past 12 Months - Unmarried (Never Married Widowed And Divorced)      |
+| b13002_017 | Unmarried (Never Married Widowed And Divorced) - 15 To 19 Years Old                                        |
+| b13002_018 | Unmarried (Never Married Widowed And Divorced) - 20 To 34 Years Old                                        |
+| b13002_019 | Unmarried (Never Married Widowed And Divorced) - 35 To 50 Years Old                                        |
+| b14001_001 |  Population 3 Years And Over - Total                                                                       |
+| b14001_002 | Total - Enrolled In School                                                                                 |
+| b14001_003 | Enrolled In School - Enrolled In Nursery School Preschool                                                  |
+| b14001_004 | Enrolled In School - Enrolled In Kindergarten                                                              |
+| b14001_005 | Enrolled In School - Enrolled In Grade 1 To Grade 4                                                        |
+| b14001_006 | Enrolled In School - Enrolled In Grade 5 To Grade 8                                                        |
+| b14001_007 | Enrolled In School - Enrolled In Grade 9 To Grade 12                                                       |
+| b14001_008 | Enrolled In School - Enrolled In College Undergraduate Years                                               |
+| b14001_009 | Enrolled In School - Graduate Or Professional School                                                       |
+| b14001_010 | Total - Not Enrolled In School                                                                             |
+| b15002_001 |  Population 25 Years And Over - Total                                                                      |
+| b15002_002 | Total - Male                                                                                               |
+| b15002_003 | Male - No Schooling Completed                                                                              |
+| b15002_004 | Male - Nursery To 4Th Grade                                                                                |
+| b15002_005 | Male - 5Th And 6Th Grade                                                                                   |
+| b15002_006 | Male - 7Th And 8Th Grade                                                                                   |
+| b15002_007 | Male - 9Th Grade                                                                                           |
+| b15002_008 | Male - 10Th Grade                                                                                          |
+| b15002_009 | Male - 11Th Grade                                                                                          |
+| b15002_010 | Male - 12Th Grade No Diploma                                                                               |
+| b15002_011 | Male - High School Graduate (Includes Equivalency)                                                         |
+| b15002_012 | Male - Some College Less Than 1 Year                                                                       |
+| b15002_013 | Male - Some College 1 Or More Years No Degree                                                              |
+| b15002_014 | Male - Associate'S Degree                                                                                  |
+| b15002_015 | Male - Bachelor'S Degree                                                                                   |
+| b15002_016 | Male - Master'S Degree                                                                                     |
+| b15002_017 | Male - Professional School Degree                                                                          |
+| b15002_018 | Male - Doctorate Degree                                                                                    |
+| b15002_019 | Total - Female                                                                                             |
+| b15002_020 | Female - No Schooling Completed                                                                            |
+| b15002_021 | Female - Nursery To 4Th Grade                                                                              |
+| b15002_022 | Female - 5Th And 6Th Grade                                                                                 |
+| b15002_023 | Female - 7Th And 8Th Grade                                                                                 |
+| b15002_024 | Female - 9Th Grade                                                                                         |
+| b15002_025 | Female - 10Th Grade                                                                                        |
+| b15002_026 | Female - 11Th Grade                                                                                        |
+| b15002_027 | Female - 12Th Grade No Diploma                                                                             |
+| b15002_028 | Female - High School Graduate (Includes Equivalency)                                                       |
+| b15002_029 | Female - Some College Less Than 1 Year                                                                     |
+| b15002_030 | Female - Some College 1 Or More Years No Degree                                                            |
+| b15002_031 | Female - Associate'S Degree                                                                                |
+| b15002_032 | Female - Bachelor'S Degree                                                                                 |
+| b15002_033 | Female - Master'S Degree                                                                                   |
+| b15002_034 | Female - Professional School Degree                                                                        |
+| b15002_035 | Female - Doctorate Degree                                                                                  |
+| b19001_001 |  Households - Total                                                                                        |
+| b19001_002 | Total - Less Than $10 000                                                                                  |
+| b19001_003 | Total - $10 000 To $14 999                                                                                 |
+| b19001_004 | Total - $15 000 To $19 999                                                                                 |
+| b19001_005 | Total - $20 000 To $24 999                                                                                 |
+| b19001_006 | Total - $25 000 To $29 999                                                                                 |
+| b19001_007 | Total - $30 000 To $34 999                                                                                 |
+| b19001_008 | Total - $35 000 To $39 999                                                                                 |
+| b19001_009 | Total - $40 000 To $44 999                                                                                 |
+| b19001_010 | Total - $45 000 To $49 999                                                                                 |
+| b19001_011 | Total - $50 000 To $59 999                                                                                 |
+| b19001_012 | Total - $60 000 To $74 999                                                                                 |
+| b19001_013 | Total - $75 000 To $99 999                                                                                 |
+| b19001_014 | Total - $100 000 To $124 999                                                                               |
+| b19001_015 | Total - $125 000 To $149 999                                                                               |
+| b19001_016 | Total - $150 000 To $199 999                                                                               |
+| b19001_017 | Total - $200 000 Or More                                                                                   |
+| b19013_001 |  Households - Median Household Income In The Past 12 Months (In 2019 Inflation-Adjusted Dollars)           |
+| b19083_001 | Households - Gini Index                                                                                    |
+| b23025_001 |  Population 16 Years And Over - Total                                                                      |
+| b23025_002 | Total - In Labor Force                                                                                     |
+| b23025_003 | In Labor Force - Civilian Labor Force                                                                      |
+| b23025_004 | Civilian Labor Force - Employed                                                                            |
+| b23025_005 | Civilian Labor Force - Unemployed                                                                          |
+| b23025_006 | In Labor Force - Armed Forces                                                                              |
+| b23025_007 | Total - Not In Labor Force                                                                                 |
+| b25002_001 |  Housing Units - Total                                                                                     |
+| b25002_002 | Total - Occupied                                                                                           |
+| b25002_003 | Total - Vacant                                                                                             |
+| b25003_001 |  Occupied Housing Units - Total                                                                            |
+| b25003_002 | Total - Owner Occupied                                                                                     |
+| b25003_003 | Total - Renter Occupied                                                                                    |
+| b25010_001 | Average Household Size - Total                                                                             |
+| b25010_002 | Total - Owner Occupied                                                                                     |
+| b25010_003 | Total - Renter Occupied                                                                                    |
+| b25063_001 |  Renter-Occupied Housing Units - Total                                                                     |
+| b25063_002 | Total - With Cash Rent                                                                                     |
+| b25063_003 | With Cash Rent - Less Than $100                                                                            |
+| b25063_004 | With Cash Rent - $100 To $149                                                                              |
+| b25063_005 | With Cash Rent - $150 To $199                                                                              |
+| b25063_006 | With Cash Rent - $200 To $249                                                                              |
+| b25063_007 | With Cash Rent - $250 To $299                                                                              |
+| b25063_008 | With Cash Rent - $300 To $349                                                                              |
+| b25063_009 | With Cash Rent - $350 To $399                                                                              |
+| b25063_010 | With Cash Rent - $400 To $449                                                                              |
+| b25063_011 | With Cash Rent - $450 To $499                                                                              |
+| b25063_012 | With Cash Rent - $500 To $549                                                                              |
+| b25063_013 | With Cash Rent - $550 To $599                                                                              |
+| b25063_014 | With Cash Rent - $600 To $649                                                                              |
+| b25063_015 | With Cash Rent - $650 To $699                                                                              |
+| b25063_016 | With Cash Rent - $700 To $749                                                                              |
+| b25063_017 | With Cash Rent - $750 To $799                                                                              |
+| b25063_018 | With Cash Rent - $800 To $899                                                                              |
+| b25063_019 | With Cash Rent - $900 To $999                                                                              |
+| b25063_020 | With Cash Rent - $1 000 To $1 249                                                                          |
+| b25063_021 | With Cash Rent - $1 250 To $1 499                                                                          |
+| b25063_022 | With Cash Rent - $1 500 To $1 999                                                                          |
+| b25063_023 |  With Cash Rent: -  $2,000 Or More                                                                         |
+| b25063_024 | Total - No Cash Rent                                                                                       |
+| b25064_001 |  Renter-Occupied Housing Units Paying Cash Rent - Median Gross Rent                                        |
+| b25070_001 |  Renter-Occupied Housing Units - Total                                                                     |
+| b25070_002 | Total - Less Than 10.0 Percent                                                                             |
+| b25070_003 | Total - 10.0 To 14.9 Percent                                                                               |
+| b25070_004 | Total - 15.0 To 19.9 Percent                                                                               |
+| b25070_005 | Total - 20.0 To 24.9 Percent                                                                               |
+| b25070_006 | Total - 25.0 To 29.9 Percent                                                                               |
+| b25070_007 | Total - 30.0 To 34.9 Percent                                                                               |
+| b25070_008 | Total - 35.0 To 39.9 Percent                                                                               |
+| b25070_009 | Total - 40.0 To 49.9 Percent                                                                               |
+| b25070_010 | Total - 50.0 Percent Or More                                                                               |
+| b25070_011 | Total - Not Computed                                                                                       |
+| b25077_001 |  Owner-Occupied Housing Units - Median Value (Dollars)                                                     |
+| b26001_001 | Population In Group Quarters - Total                                                                       |
+| c17002_001 |  Population For Whom Poverty Status Is Determined - Total                                                  |
+| c17002_002 | Total - Under .50                                                                                          |
+| c17002_003 | Total - .50 To .99                                                                                         |
+| c17002_004 | Total - 1.00 To 1.24                                                                                       |
+| c17002_005 | Total - 1.25 To 1.49                                                                                       |
+| c17002_006 | Total - 1.50 To 1.84                                                                                       |
+| c17002_007 | Total - 1.85 To 1.99                                                                                       |
+| c17002_008 | Total - 2.00 And Over                                                                                      |
+| c24030_001 |  Civilian Employed Population 16 Years And Over - Total                                                    |
+| c24030_002 | Total - Male                                                                                               |
+| c24030_003 | Male - Agriculture Forestry Fishing And Hunting And Mining                                                 |
+| c24030_006 | Male - Construction                                                                                        |
+| c24030_007 | Male - Manufacturing                                                                                       |
+| c24030_008 | Male - Wholesale Trade                                                                                     |
+| c24030_009 | Male - Retail Trade                                                                                        |
+| c24030_010 | Male - Transportation And Warehousing And Utilities                                                        |
+| c24030_013 | Male - Information                                                                                         |
+| c24030_014 | Male - Finance And Insurance And Real Estate And Rental And Leasing                                        |
+| c24030_017 | Male - Professional Scientific And Management And Administrative And Waste Management Services             |
+| c24030_021 | Male - Educational Services And Health Care And Social Assistance                                          |
+| c24030_024 | Male - Arts Entertainment And Recreation And Accommodation And Food Services                               |
+| c24030_027 | Male - Other Services Except Public Administration                                                         |
+| c24030_028 | Male - Public Administration                                                                               |
+| c24030_029 | Total - Female                                                                                             |
+| c24030_030 | Female - Agriculture Forestry Fishing And Hunting And Mining                                               |
+| c24030_033 | Female - Construction                                                                                      |
+| c24030_034 | Female - Manufacturing                                                                                     |
+| c24030_035 | Female - Wholesale Trade                                                                                   |
+| c24030_036 | Female - Retail Trade                                                                                      |
+| c24030_037 | Female - Transportation And Warehousing And Utilities                                                      |
+| c24030_040 | Female - Information                                                                                       |
+| c24030_041 | Female - Finance And Insurance And Real Estate And Rental And Leasing                                      |
+| c24030_044 | Female - Professional Scientific And Management And Administrative And Waste Management Services           |
+| c24030_048 | Female - Educational Services And Health Care And Social Assistance                                        |
+| c24030_051 | Female - Arts Entertainment And Recreation And Accommodation And Food Services                             |
+| c24030_054 | Female - Other Services Except Public Administration                                                       |
+| c24030_055 | Female - Public Administration                                                                             |
++------------+------------------------------------------------------------------------------------------------------------+
+

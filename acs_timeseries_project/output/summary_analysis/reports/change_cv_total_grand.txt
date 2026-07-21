@@ -1,0 +1,15 @@
+Coefficient of Variation for Change: Grand Total
+
++-----------+-----------------+---------+
+| change_cv | change_cv_count | percent |
++-----------+-----------------+---------+
+|    low    |     10046353    |   91.9  |
+|   medium  |      686375     |   6.3   |
+|    high   |      198811     |   1.8   |
++-----------+-----------------+---------+
+
+These summaries only include values where the estimates from both
+time periods were statistically different from each other.
+
+These summaries include distinct values. Variables that appear in
+multiple tables are only counted once.

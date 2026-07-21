@@ -1,0 +1,26 @@
+Summary Levels
+
++---------+------------------+
+| sumcode | sumname          |
++---------+------------------+
+| 010     | US               |
+| 020     | Region           |
+| 030     | Division         |
+| 040     | State            |
+| 050     | County           |
+| 060     | County Subdiv    |
+| 140     | Tract            |
+| 150     | Blk Group        |
+| 160     | Place            |
+| 170     | Cons City        |
+| 250     | Tribal Area      |
+| 251     | Tribal Subdiv    |
+| 256     | Tribal Tract     |
+| 258     | Tribal Blk Group |
+| 310     | CBSA             |
+| 400     | Urban Area       |
+| 500     | Cong Dist        |
+| 795     | PUMA             |
+| 860     | ZCTA             |
++---------+------------------+
+

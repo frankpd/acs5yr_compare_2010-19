@@ -1,0 +1,12 @@
+Statistically Significant Difference: Share by Variable Type
+
++----------+---------------+---------+
+| vartype  | sig_dif_count | percent |
++----------+---------------+---------+
+| estimate |   100299981   |   93.3  |
+| summary  |    3836981    |   3.6   |
+| universe |    3359212    |   3.1   |
++----------+---------------+---------+
+
+These summaries include distinct values. Variables that appear in
+multiple tables are only counted once.

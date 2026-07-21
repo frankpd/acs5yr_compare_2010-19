@@ -1,0 +1,31 @@
+Coefficient of Variation for Change: Share by Summary Level
+
++----------+-----------------+---------+
+| sumlevel | change_cv_count | percent |
++----------+-----------------+---------+
+|   010    |       290       |   0.0   |
+|   020    |       1138      |   0.0   |
+|   030    |       2465      |   0.0   |
+|   040    |      11647      |   0.1   |
+|   050    |      279300     |   2.6   |
+|   060    |     1131118     |   10.3  |
+|   140    |     2822174     |   25.8  |
+|   150    |     3952314     |   36.2  |
+|   160    |      847449     |   7.8   |
+|   170    |       983       |   0.0   |
+|   250    |      18013      |   0.2   |
+|   251    |      11988      |   0.1   |
+|   256    |      14777      |   0.1   |
+|   258    |      19238      |   0.2   |
+|   310    |      86636      |   0.8   |
+|   400    |      193420     |   1.8   |
+|   500    |      61837      |   0.6   |
+|   795    |      260775     |   2.4   |
+|   860    |     1215977     |   11.1  |
++----------+-----------------+---------+
+
+These summaries only include values where the estimates from both
+time periods were statistically different from each other.
+
+These summaries include distinct values. Variables that appear in
+multiple tables are only counted once.

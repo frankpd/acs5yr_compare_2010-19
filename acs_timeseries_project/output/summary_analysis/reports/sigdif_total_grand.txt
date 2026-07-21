@@ -1,0 +1,12 @@
+Statistically Significant Difference: Grand Total
+
++---------+---------------+---------+
+| sig_dif | sig_dif_count | percent |
++---------+---------------+---------+
+|  False  |    96258224   |   89.5  |
+|   True  |    10931539   |   10.2  |
+|   nan   |     306411    |   0.3   |
++---------+---------------+---------+
+
+These summaries include distinct values. Variables that appear in
+multiple tables are only counted once.

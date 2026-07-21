@@ -1,0 +1,28 @@
+Coefficient of Variation for Change: (sorted for estimates of high and medium precision combined): Percent Total by Summary Level
+
++----------+-----------------+---------+
+| sumlevel | change_cv_count | percent |
++----------+-----------------+---------+
+|   010    |       283       |   97.6  |
+|   020    |       1040      |   91.4  |
+|   030    |       2145      |   87.1  |
+|   040    |       8522      |   73.2  |
+|   500    |      32243      |   52.1  |
+|   170    |       460       |   46.8  |
+|   310    |      35035      |   40.4  |
+|   050    |      94875      |   34.0  |
+|   795    |      87671      |   33.6  |
+|   400    |      30554      |   15.8  |
+|   250    |       1953      |   10.8  |
+|   160    |      86964      |   10.3  |
+|   060    |      99994      |   8.8   |
+|   860    |      106216     |   8.7   |
+|   256    |       993       |   6.7   |
+|   140    |      164658     |   5.9   |
+|   251    |       642       |   5.4   |
+|   258    |       875       |   4.5   |
+|   150    |      130063     |   3.3   |
++----------+-----------------+---------+
+
+These summaries include distinct values. Variables that appear in
+multiple tables are only counted once.

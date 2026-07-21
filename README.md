@@ -36,7 +36,7 @@ Lists of geographic summary levels, tables, and variables included in the study
 
 | Summary by | All Records |      |
 |------------|-------------|------|
-| Geography  | [Report (zip)](acs_timeseries_project/output/summary_analysis/reports/meta_summary_levels.zip)   | [Data (zip)](acs_timeseries_project/output/summary_analysis/sumdata/meta_summary_levels.zip) |
+| Geography  | [Report](acs_timeseries_project/output/summary_analysis/reports/meta_summary_levels.txt)   | [Data](acs_timeseries_project/output/summary_analysis/sumdata/meta_summary_levels.tsv) |
 | Tables     | [Report](acs_timeseries_project/output/summary_analysis/reports/meta_table_names.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/meta_table_names.tsv) |
 | Variables  | [Report](acs_timeseries_project/output/summary_analysis/reports/meta_variable_names.txt)   | [Data](acs_timeseries_project/output/summary_analysis/sumdata/meta_variable_names.tsv) |
 

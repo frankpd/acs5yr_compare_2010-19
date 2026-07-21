@@ -106,7 +106,6 @@ For estimates that were significantly different, the percentage of total estimat
  - low (CV > 30)
  - medium (CV 15 to 30)
  - high (CV < 15)
- - null
 
 | Summary by                  | All Records |      | Filtered & Sorted |      |
 |-----------------------------|-------------|------|-------------------|------|

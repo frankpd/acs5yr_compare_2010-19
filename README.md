@@ -123,14 +123,14 @@ For estimates that were significantly different, the percentage of total estimat
 Flat file on which the previous summary reports and data were generated, contains one summary record for each variable, geographic summary level, and result
 
 - [Significant Difference](acs_timeseries_project/output/summary_analysis/recordsummary_sig_dif.txt): all variables, true / false / null
-- [Coefficient of Variation](acs_timeseries_project/output/summary_analysis/recordsummary_chg_cv_only_sigdf.txt): all significant variables, low / medium / high / null
+- [Coefficient of Variation](acs_timeseries_project/output/summary_analysis/recordsummary_chg_cv_only_sigdf.txt): all significant variables, low / medium / high
 
 ## Counts by Geography
 
 For each individual geography (approx 406k in total), a count of the number of variables and percent total
 
 - [Signficant Difference JSON (zip)](acs_timeseries_project/output/summary_analysis/geosd_count.zip): count of true / false / null and percent totals
-- [Coeffecient of Variation JSON (zip)](acs_timeseries_project/output/summary_analysis/geosd_count.zip): count of low / medium / high / null and percent totals
+- [Coeffecient of Variation JSON (zip)](acs_timeseries_project/output/summary_analysis/geosd_count.zip): count of low / medium / high and percent totals
 
 
 

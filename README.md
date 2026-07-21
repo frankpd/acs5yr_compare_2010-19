@@ -51,7 +51,7 @@ Variable types include:
 
 ### Share of Records
 
-The percentage of total estimates included in each category. 
+The percentage of total estimates included in each geographic summary level, table, and variable.
 
 | Summary by    | All Records |      |
 |---------------|-------------|------|
@@ -78,7 +78,7 @@ The percentage of total estimates that are significantly different. Filtered opt
 | Table & Geography           | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_tabgeo.txt)   | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_tabgeo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_tabgeo_fs.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_tabgeo_fs.tsv) |
 | Variable                    | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_var.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_var.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_var_fs.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_var_fs.tsv) |
 | Variable Type               | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_vtype.txt)    | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_vtype.tsv) |           |  |
-| Variable Type and Geography | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_vtypegeo.txt) | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_vtypegeo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_vtypegeo_fs.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_vtypegeo_fs.tsv) |
+| Variable Type and Geography | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_vtypegeo.txt) | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_vtypegeo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_vtypegeo_fs.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_vtypegeo_fs.tsv) |
 
 ## Summary Data for Coefficient of Variation
 
@@ -89,14 +89,14 @@ Variable types include:
 
 ### Share of Records
 
-For estimates that were significantly different, the percentage of total estimates included in each category 
+The percentage of total estimates that were significantly different included in each geographic summary level, table, and variable.
 
 | Summary by    | All Records |      |
 |---------------|-------------|------|
 | Geography     | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_geo.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_geo.tsv) |
 | Table         | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_tab.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_tab.tsv) |
 | Variable      | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_var.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_var.tsv) | 
-| Variable Type | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_vartype.txt)  | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_vartype.tsv) |
+| Variable Type | [Report](acs_timeseries_project/output/summary_analysis/reports/change_share_vartype.txt)  | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_share_vartype.tsv) |
 
 ### Results
 
@@ -124,7 +124,7 @@ For estimates that were significantly different, the percentage of total estimat
 Flat file on which the previous summary reports and data were generated, contains one summary record for each variable, geographic summary level, and result
 
 - [Significant Difference](acs_timeseries_project/output/summary_analysis/recordsummary_sig_dif.txt): all variables, true / false / null
-- [Coefficient of Variation](acs_timeseries_project/output/summary_analysis/recordsummary_chg_cv_only_sigdif.txt): all significant variables, low / medium / high / null
+- [Coefficient of Variation](acs_timeseries_project/output/summary_analysis/recordsummary_chg_cv_only_sigdf.txt): all significant variables, low / medium / high / null
 
 ## Counts by Geography
 

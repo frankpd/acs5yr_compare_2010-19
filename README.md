@@ -16,7 +16,7 @@ This repository does NOT include:
 
 The input data and project database are too large to be archived in GitHub.
 
-[ACS Data for Change Over Time 2010-14 to 2015-19](https://github.com/frankpd/acs5yr_compare_2010-19)</a> © 2026 by Frank Donnelly is licensed under a Creative Commons Attribution Non-Commercial License [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;">
+[ACS Data for Change Over Time 2010-14 to 2015-19](https://github.com/frankpd/acs5yr_compare_2010-19)</a> © 2026 by Frank Donnelly is licensed under a Creative Commons Attribution Non-Commercial License [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: .5;max-height:.5;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: .5em;max-height:.5em;margin-left: .2em;">
 
 # Scripts and Workflow
 

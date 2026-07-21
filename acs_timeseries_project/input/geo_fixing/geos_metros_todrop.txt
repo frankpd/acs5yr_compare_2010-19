@@ -1,0 +1,143 @@
+GEOID	NAME	NAMELSAD	LSAD
+31000US12120	Atmore, AL	Atmore, AL Micro Area	M2
+31000US12900	Batesville, AR	Batesville, AR Micro Area	M2
+31000US12940	Baton Rouge, LA	Baton Rouge, LA Metro Area	M1
+31000US13140	Beaumont-Port Arthur, TX	Beaumont-Port Arthur, TX Metro Area	M1
+31000US13620	Berlin, NH	Berlin, NH Micro Area	M2
+31000US13700	Big Spring, TX	Big Spring, TX Micro Area	M2
+31000US13720	Big Stone Gap, VA	Big Stone Gap, VA Micro Area	M2
+31000US13740	Billings, MT	Billings, MT Metro Area	M1
+31000US13820	Birmingham-Hoover, AL	Birmingham-Hoover, AL Metro Area	M1
+31000US13900	Bismarck, ND	Bismarck, ND Metro Area	M1
+31000US13980	Blacksburg-Christiansburg, VA	Blacksburg-Christiansburg, VA Metro Area	M1
+31000US14010	Bloomington, IL	Bloomington, IL Metro Area	M1
+31000US14140	Bluefield, WV-VA	Bluefield, WV-VA Micro Area	M2
+31000US14300	Bonham, TX	Bonham, TX Micro Area	M2
+31000US14700	Branson, MO	Branson, MO Micro Area	M2
+31000US15140	Brownsville, TN	Brownsville, TN Micro Area	M2
+31000US17140	Cincinnati, OH-KY-IN	Cincinnati, OH-KY-IN Metro Area	M1
+31000US17300	Clarksville, TN-KY	Clarksville, TN-KY Metro Area	M1
+31000US17860	Columbia, MO	Columbia, MO Metro Area	M1
+31000US17980	Columbus, GA-AL	Columbus, GA-AL Metro Area	M1
+31000US18580	Corpus Christi, TX	Corpus Christi, TX Metro Area	M1
+31000US22220	Fayetteville-Springdale-Rogers, AR	Fayetteville-Springdale-Rogers, AR Metro Area	M1
+31000US22840	Fort Payne, AL	Fort Payne, AL Micro Area	M2
+31000US22900	Fort Smith, AR-OK	Fort Smith, AR-OK Metro Area	M1
+31000US23060	Fort Wayne, IN	Fort Wayne, IN Metro Area	M1
+31000US23540	Gainesville, FL	Gainesville, FL Metro Area	M1
+31000US23940	Gillette, WY	Gillette, WY Micro Area	M2
+31000US19000	Cullowhee, NC	Cullowhee, NC Micro Area	M2
+31000US19100	Dallas-Fort Worth-Arlington, TX	Dallas-Fort Worth-Arlington, TX Metro Area	M1
+31000US19430	Dayton-Kettering, OH	Dayton-Kettering, OH Metro Area	M1
+31000US19780	Des Moines-West Des Moines, IA	Des Moines-West Des Moines, IA Metro Area	M1
+31000US19860	Dickinson, ND	Dickinson, ND Micro Area	M2
+31000US20060	Douglas, GA	Douglas, GA Micro Area	M2
+31000US20140	Dublin, GA	Dublin, GA Micro Area	M2
+31000US20260	Duluth, MN-WI	Duluth, MN-WI Metro Area	M1
+31000US20500	Durham-Chapel Hill, NC	Durham-Chapel Hill, NC Metro Area	M1
+31000US21020	Elizabeth City, NC	Elizabeth City, NC Micro Area	M2
+31000US21380	Emporia, KS	Emporia, KS Micro Area	M2
+31000US21640	Eufaula, AL-GA	Eufaula, AL-GA Micro Area	M2
+31000US21860	Fairmont, MN	Fairmont, MN Micro Area	M2
+31000US22180	Fayetteville, NC	Fayetteville, NC Metro Area	M1
+31000US15820	Campbellsville, KY	Campbellsville, KY Micro Area	M2
+31000US16060	Carbondale-Marion, IL	Carbondale-Marion, IL Metro Area	M1
+31000US16140	Carroll, IA	Carroll, IA Micro Area	M2
+31000US16420	Central City, KY	Central City, KY Micro Area	M2
+31000US16580	Champaign-Urbana, IL	Champaign-Urbana, IL Metro Area	M1
+31000US16620	Charleston, WV	Charleston, WV Metro Area	M1
+31000US16740	Charlotte-Concord-Gastonia, NC-SC	Charlotte-Concord-Gastonia, NC-SC Metro Area	M1
+31000US16820	Charlottesville, VA	Charlottesville, VA Metro Area	M1
+31000US10500	Albany, GA	Albany, GA Metro Area	M1
+31000US10760	Alexander City, AL	Alexander City, AL Micro Area	M2
+31000US10860	Alice, TX	Alice, TX Micro Area	M2
+31000US11180	Ames, IA	Ames, IA Metro Area	M1
+31000US11620	Ardmore, OK	Ardmore, OK Micro Area	M2
+31000US49260	Woodward, OK	Woodward, OK Micro Area	M2
+31000US49500	Yauco, PR	Yauco, PR Metro Area	M1
+31000US24180	Granbury, TX	Granbury, TX Micro Area	M2
+31000US24260	Grand Island, NE	Grand Island, NE Metro Area	M1
+31000US24330	Grand Rapids, MN	Grand Rapids, MN Micro Area	M2
+31000US24940	Greenwood, SC	Greenwood, SC Micro Area	M2
+31000US25060	Gulfport-Biloxi, MS	Gulfport-Biloxi, MS Metro Area	M1
+31000US25180	Hagerstown-Martinsburg, MD-WV	Hagerstown-Martinsburg, MD-WV Metro Area	M1
+31000US25200	Hailey, ID	Hailey, ID Micro Area	M2
+31000US25620	Hattiesburg, MS	Hattiesburg, MS Metro Area	M1
+31000US25720	Heber, UT	Heber, UT Micro Area	M2
+31000US26260	Hope, AR	Hope, AR Micro Area	M2
+31000US26660	Huntsville, TX	Huntsville, TX Micro Area	M2
+31000US26700	Huron, SD	Huron, SD Micro Area	M2
+31000US27140	Jackson, MS	Jackson, MS Metro Area	M1
+31000US27180	Jackson, TN	Jackson, TN Metro Area	M1
+31000US27530	Jasper, AL	Jasper, AL Micro Area	M2
+31000US27660	Jennings, LA	Jennings, LA Micro Area	M2
+31000US28020	Kalamazoo-Portage, MI	Kalamazoo-Portage, MI Metro Area	M1
+31000US28620	Kill Devil Hills, NC	Kill Devil Hills, NC Micro Area	M2
+31000US28940	Knoxville, TN	Knoxville, TN Metro Area	M1
+31000US29200	Lafayette-West Lafayette, IN	Lafayette-West Lafayette, IN Metro Area	M1
+31000US29300	LaGrange, GA-AL	LaGrange, GA-AL Micro Area	M2
+31000US29620	Lansing-East Lansing, MI	Lansing-East Lansing, MI Metro Area	M1
+31000US29780	Las Vegas, NM	Las Vegas, NM Micro Area	M2
+31000US30100	Lebanon, NH-VT	Lebanon, NH-VT Micro Area	M2
+31000US30940	London, KY	London, KY Micro Area	M2
+31000US30980	Longview, TX	Longview, TX Metro Area	M1
+31000US31140	Louisville/Jefferson County, KY-IN	Louisville/Jefferson County, KY-IN Metro Area	M1
+31000US31740	Manhattan, KS	Manhattan, KS Metro Area	M1
+31000US32420	Mayagüez, PR	Mayagüez, PR Metro Area	M1
+31000US32620	McComb, MS	McComb, MS Micro Area	M2
+31000US32820	Memphis, TN-MS-AR	Memphis, TN-MS-AR Metro Area	M1
+31000US33380	Minden, LA	Minden, LA Micro Area	M2
+31000US33460	Minneapolis-St. Paul-Bloomington, MN-WI	Minneapolis-St. Paul-Bloomington, MN-WI Metro Area	M1
+31000US33660	Mobile, AL	Mobile, AL Metro Area	M1
+31000US33740	Monroe, LA	Monroe, LA Metro Area	M1
+31000US33940	Montrose, CO	Montrose, CO Micro Area	M2
+31000US34100	Morristown, TN	Morristown, TN Metro Area	M1
+31000US34350	Mount Gay-Shamrock, WV	Mount Gay-Shamrock, WV Micro Area	M2
+31000US34420	Mount Pleasant, TX	Mount Pleasant, TX Micro Area	M2
+31000US34980	Nashville-Davidson--Murfreesboro--Franklin, TN	Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area	M1
+31000US35620	New York-Newark-Jersey City, NY-NJ-PA	New York-Newark-Jersey City, NY-NJ-PA Metro Area	M1
+31000US36837	Ottawa, IL	Ottawa, IL Micro Area	M2
+31000US36900	Ottumwa, IA	Ottumwa, IA Micro Area	M2
+31000US37420	Pampa, TX	Pampa, TX Micro Area	M2
+31000US37460	Panama City, FL	Panama City, FL Metro Area	M1
+31000US37770	Pearsall, TX	Pearsall, TX Micro Area	M2
+31000US37780	Pecos, TX	Pecos, TX Micro Area	M2
+31000US37800	Pella, IA	Pella, IA Micro Area	M2
+31000US37900	Peoria, IL	Peoria, IL Metro Area	M1
+31000US38180	Pierre, SD	Pierre, SD Micro Area	M2
+31000US38540	Pocatello, ID	Pocatello, ID Metro Area	M1
+31000US38660	Ponce, PR	Ponce, PR Metro Area	M1
+31000US38740	Poplar Bluff, MO	Poplar Bluff, MO Micro Area	M2
+31000US39100	Poughkeepsie-Newburgh-Middletown, NY	Poughkeepsie-Newburgh-Middletown, NY Metro Area	M1
+31000US39150	Prescott Valley-Prescott, AZ	Prescott Valley-Prescott, AZ Metro Area	M1
+31000US39660	Rapid City, SD	Rapid City, SD Metro Area	M1
+31000US40080	Richmond-Berea, KY	Richmond-Berea, KY Micro Area	M2
+31000US40530	Rockport, TX	Rockport, TX Micro Area	M2
+31000US40760	Ruidoso, NM	Ruidoso, NM Micro Area	M2
+31000US41260	St. Marys, PA	St. Marys, PA Micro Area	M2
+31000US41660	San Angelo, TX	San Angelo, TX Metro Area	M1
+31000US42500	Scottsburg, IN	Scottsburg, IN Micro Area	M2
+31000US43340	Shreveport-Bossier City, LA	Shreveport-Bossier City, LA Metro Area	M1
+31000US43580	Sioux City, IA-NE-SD	Sioux City, IA-NE-SD Metro Area	M1
+31000US43900	Spartanburg, SC	Spartanburg, SC Metro Area	M1
+31000US44060	Spokane-Spokane Valley, WA	Spokane-Spokane Valley, WA Metro Area	M1
+31000US44140	Springfield, MA	Springfield, MA Metro Area	M1
+31000US44260	Starkville, MS	Starkville, MS Micro Area	M2
+31000US44940	Sumter, SC	Sumter, SC Metro Area	M1
+31000US45180	Talladega-Sylacauga, AL	Talladega-Sylacauga, AL Micro Area	M2
+31000US45460	Terre Haute, IN	Terre Haute, IN Metro Area	M1
+31000US45780	Toledo, OH	Toledo, OH Metro Area	M1
+31000US46180	Tupelo, MS	Tupelo, MS Micro Area	M2
+31000US46220	Tuscaloosa, AL	Tuscaloosa, AL Metro Area	M1
+31000US46420	Union, SC	Union, SC Micro Area	M2
+31000US46460	Union City, TN	Union City, TN Micro Area	M2
+31000US46980	Vicksburg, MS	Vicksburg, MS Micro Area	M2
+31000US47260	Virginia Beach-Norfolk-Newport News, VA-NC	Virginia Beach-Norfolk-Newport News, VA-NC Metro Area	M1
+31000US47460	Walla Walla, WA	Walla Walla, WA Metro Area	M1
+31000US47580	Warner Robins, GA	Warner Robins, GA Metro Area	M1
+31000US47900	Washington-Arlington-Alexandria, DC-VA-MD-WV	Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area	M1
+31000US47980	Watertown, SD	Watertown, SD Micro Area	M2
+31000US48140	Wausau-Weston, WI	Wausau-Weston, WI Metro Area	M1
+31000US48500	West Point, MS	West Point, MS Micro Area	M2
+31000US48620	Wichita, KS	Wichita, KS Metro Area	M1
+31000US49060	Winfield, KS	Winfield, KS Micro Area	M2

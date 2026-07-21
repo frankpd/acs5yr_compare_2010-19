@@ -1,0 +1,4 @@
+ "ALAND" BETWEEN ( "y14ALAND" -  ("y14ALAND" *.05)) AND  ("y14ALAND" +  ("y14ALAND" * .05))
+ 
+  "ALAND" NOT BETWEEN ( "y14ALAND" -  ("y14ALAND" *.05)) AND  ("y14ALAND" +  ("y14ALAND" * .05)) OR 
+  "y14ALAND" IS NULL

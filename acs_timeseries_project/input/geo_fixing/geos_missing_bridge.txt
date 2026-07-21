@@ -1,0 +1,59 @@
+geo2014	name2014	geo2019	name2019
+05000US02270	Wade Hampton Census Area, Alaska	05000US02158	Kusilvak Census Area, Alaska
+05000US46113	Shannon County, South Dakota	05000US46102	Oglala Lakota County, South Dakota
+06000US0227082700	Wade Hampton census subarea, Wade Hampton Census Area, Alaska	06000US0215842185	Kusilvak census subarea, Kusilvak Census Area, Alaska
+06000US1703124595	Evanston township, Cook County, Illinois	06000US1703124582	Evanston city, Cook County, Illinois
+06000US1716304858	Belleville township, St. Clair County, Illinois	06000US1716304845	Belleville city, St. Clair County, Illinois
+06000US2501724925	Framingham town, Middlesex County, Massachusetts	06000US2501724960	Framingham city, Middlesex County, Massachusetts
+06000US2502155955	Randolph town, Norfolk County, Massachusetts	06000US2502156000	Randolph Town city, Norfolk County, Massachusetts
+06000US2502308085	Bridgewater town, Plymouth County, Massachusetts	06000US2502308130	Bridgewater Town city, Plymouth County, Massachusetts
+06000US3800913060	Cecil township, Bottineau County, North Dakota	06000US3800913061	Cecil UT, Bottineau County, North Dakota
+06000US3800985420	Whitby township, Bottineau County, North Dakota	06000US3800985421	Whitby UT, Bottineau County, North Dakota
+06000US3904181203	Washington township, Delaware County, Ohio	06000US3904181242	Washington township, Delaware County, Ohio
+06000US4003191126	Fort Sill CCD, Comanche County, Oklahoma	06000US4003191136	Fort Sill CCD, Comanche County, Oklahoma
+06000US4508190156	Batesburg-Leesville CCD, Saluda County, South Carolina	06000US4508190170	Batesburg-Leesville CCD, Saluda County, South Carolina
+06000US4603136360	Lemmon UT, Corson County, South Dakota	06000US4603136332	Lemmon UT, Corson County, South Dakota
+06000US4611303860	Batesland town, Shannon County, South Dakota	06000US4610203860	Batesland town, Oglala Lakota County, South Dakota
+06000US4611317920	East Shannon UT, Shannon County, South Dakota	06000US4610217858	East Oglala Lakota UT, Oglala Lakota County, South Dakota
+06000US4611370625	West Shannon UT, Shannon County, South Dakota	06000US4610270415	West Oglala Lakota UT, Oglala Lakota County, South Dakota
+06000US5505971125	Salem town, Kenosha County, Wisconsin	06000US5505971163	Salem Lakes village, Kenosha County, Wisconsin
+06000US5510189575	Yorkville town, Racine County, Wisconsin	06000US5510189550	Yorkville village, Racine County, Wisconsin
+14000US02270000100	Census Tract 1, Wade Hampton Census Area, Alaska	14000US02158000100	Census Tract 1, Kusilvak Census Area, Alaska
+14000US46113940500	Census Tract 9405, Shannon County, South Dakota	14000US46102940500	Census Tract 9405, Oglala Lakota County, South Dakota
+14000US46113940800	Census Tract 9408, Shannon County, South Dakota	14000US46102940800	Census Tract 9408, Oglala Lakota County, South Dakota
+14000US46113940900	Census Tract 9409, Shannon County, South Dakota	14000US46102940900	Census Tract 9409, Oglala Lakota County, South Dakota
+15000US022700001001	Block Group 1, Census Tract 1, Wade Hampton Census Area, Alaska	15000US021580001001	Block Group 1, Census Tract 1, Kusilvak Census Area, Alaska
+15000US022700001002	Block Group 2, Census Tract 1, Wade Hampton Census Area, Alaska	15000US021580001002	Block Group 2, Census Tract 1, Kusilvak Census Area, Alaska
+15000US022700001003	Block Group 3, Census Tract 1, Wade Hampton Census Area, Alaska	15000US021580001003	Block Group 3, Census Tract 1, Kusilvak Census Area, Alaska
+15000US022700001004	Block Group 4, Census Tract 1, Wade Hampton Census Area, Alaska	15000US021580001004	Block Group 4, Census Tract 1, Kusilvak Census Area, Alaska
+15000US461139405001	Block Group 1, Census Tract 9405, Shannon County, South Dakota	15000US461029405001	Block Group 1, Census Tract 9405, Oglala Lakota County, South Dakota
+15000US461139405002	Block Group 2, Census Tract 9405, Shannon County, South Dakota	15000US461029405002	Block Group 2, Census Tract 9405, Oglala Lakota County, South Dakota
+15000US461139405003	Block Group 3, Census Tract 9405, Shannon County, South Dakota	15000US461029405003	Block Group 3, Census Tract 9405, Oglala Lakota County, South Dakota
+15000US461139408001	Block Group 1, Census Tract 9408, Shannon County, South Dakota	15000US461029408001	Block Group 1, Census Tract 9408, Oglala Lakota County, South Dakota
+15000US461139408002	Block Group 2, Census Tract 9408, Shannon County, South Dakota	15000US461029408002	Block Group 2, Census Tract 9408, Oglala Lakota County, South Dakota
+15000US461139408003	Block Group 3, Census Tract 9408, Shannon County, South Dakota	15000US461029408003	Block Group 3, Census Tract 9408, Oglala Lakota County, South Dakota
+15000US461139409001	Block Group 1, Census Tract 9409, Shannon County, South Dakota	15000US461029409001	Block Group 1, Census Tract 9409, Oglala Lakota County, South Dakota
+15000US461139409002	Block Group 2, Census Tract 9409, Shannon County, South Dakota	15000US461029409002	Block Group 2, Census Tract 9409, Oglala Lakota County, South Dakota
+15000US461139409003	Block Group 3, Census Tract 9409, Shannon County, South Dakota	15000US461029409003	Block Group 3, Census Tract 9409, Oglala Lakota County, South Dakota
+16000US0205200	Barrow city, Alaska	16000US0281920	Utqiagvik city, Alaska
+16000US0246560	McKinley Park CDP, Alaska	16000US0218805	Denali Park CDP, Alaska
+16000US1250900	Ocean Breeze Park town, Florida	16000US1250875	Ocean Breeze town, Florida
+16000US2508050	Bridgewater CDP, Massachusetts	16000US2508130	Bridgewater Town city, Massachusetts
+16000US2555990	Randolph CDP, Massachusetts	16000US2556000	Randolph Town city, Massachusetts
+16000US2904240	Bellerive village, Missouri	16000US2904248	Bellerive Acres city, Missouri
+16000US4615250	Dakota Dunes CDP, South Dakota	16000US4615256	Dakota Dunes CDP, South Dakota
+16000US4822150	East Lopez CDP, Texas	16000US4823398	E. Lopez CDP, Texas
+16000US4840270	Lago Vista CDP, Texas	16000US4840262	Lago Vista CDP, Texas
+16000US4921115	East Carbon-Sunnyside city, Utah	16000US4920890	East Carbon city, Utah
+16000US5179952	Tysons Corner CDP, Virginia	16000US5179950	Tysons CDP, Virginia
+16000US5187430	Woodlawn CDP (Fairfax County), Virginia	16000US5187410	Woodlawn CDP (Fairfax County), Virginia
+25100US5550330	Marble City Community; Cherokee OTSA, OK	25100US5550343	Marble City Community; Cherokee OTSA, OK
+25100US5550335	Marietta; Cherokee OTSA, OK	25100US5550348	Marietta; Cherokee OTSA, OK
+25100US5550340	Mayes Non-Community; Cherokee OTSA, OK	25100US5550353	Mayes Non-Community; Cherokee OTSA, OK
+25100US5550345	Mazie; Cherokee OTSA, OK	25100US5550358	Mazie; Cherokee OTSA, OK
+25100US5550350	McCoy Ford; Cherokee OTSA, OK	25100US5550328	McCoy Ford; Cherokee OTSA, OK
+25100US5550355	McIntosh Non-Community; Cherokee OTSA, OK	25100US5550333	McIntosh Non-Community; Cherokee OTSA, OK
+25100US5550360	McKey; Cherokee OTSA, OK	25100US5550338	McKey; Cherokee OTSA, OK
+25100US5550455	Pin Oak Acres; Cherokee OTSA, OK	25100US5550463	Pin Oak Acres; Cherokee OTSA, OK
+25100US5550460	Piney; Cherokee OTSA, OK	25100US5550453	Piney; Cherokee OTSA, OK
+25100US5550465	Pinhook Corner; Cherokee OTSA, OK	25100US5550458	Pinhook Corner; Cherokee OTSA, OK

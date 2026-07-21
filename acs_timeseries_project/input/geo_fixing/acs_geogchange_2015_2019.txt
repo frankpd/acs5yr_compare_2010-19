@@ -1,0 +1,865 @@
+ACS GEOGRAPHY CHANGES
+
+https://www.census.gov/programs-surveys/acs/technical-documentation/table-and-geography-changes.html
+
+*** 2015 ***
+
+Geography Changes
+County Name and Code Changes
+
+Two county-level entities changed names and codes:
+
+    Wade Hampton Census Area, Alaska, was renamed as Kusilvak Census Area and the county code changed from 270 to 158
+    Shannon County, South Dakota, was renamed as Oglala Lakota County and the county code changed from 113 to 102. 
+
+The county codes also changed for all the county subdivisions located in these county-level units.
+
+Additional changes for county-level areas can be found by visiting the County Changes webpage.
+
+Merged Cities in Georgia and Minnesota
+
+The former Helena and McRae cities in Georgia have merged to form the new ‘Incorporated Place entity’, McRae-Helena city.  This new incorporated place has a FIPS code of 49100 and an ANSI code of 02770965.
+
+The former Thomson city in Carlton County, Minnesota was merged into Carlton city, Minnesota.
+
+Places That No Longer Exist
+
+The following places no longer exist:
+
+    Islandia City (34175) Florida
+    Helena City (37816), Georgia
+    McRae City (49084) Georgia
+    Millville City (52410), Iowa
+    Thomson City (64750), Minnesota
+
+Boundary Changes
+
+Some areas of the nation will now have reduced comparability, primarily due to boundary changes. Changes are based on a variety of reasons including annexation, disincorporation, and geocoding updates. Some of the areas include:
+
+    Petersburg borough and census subarea and Edna Bay in Alaska
+    Magnet Cove, Arkansas
+    Buchanan township, Iowa
+    McArdle and Millard precincts in Nebraska
+    Bridgewater, New York
+    Brogan, Oregon
+    South and central districts in West Virginia
+
+For those entities that experienced changes, making comparisons between an entity in its 2014 form to its 2015 form should be done cautiously and with good understanding that the entity is substantially different in its 2015 form.
+
+*** 2016 ***
+
+
+Geography Changes
+Conversion of County Subdivisions from Townships to Precincts in Buffalo County, Nebraska
+
+Buffalo County, Nebraska (31019) abolished all townships in the county. The 26 townships (and two independent place county subdivisions) have been replaced by 29 precincts. Only three townships maintained comparability with a single precinct.
+
+Changes in the Inventory of Entities
+
+Each year some new entities come into existence and other entities are deleted. This is the result of new incorporations or statistical delineations, the redrawing or splitting of administrative areas, disincorporations, mergers and consolidations, and other types of changes.
+
+County Subdivisions That No Longer Exist for 2016
+
+The following county subdivisions no longer exist:
+
+    All 26 townships and two independent place county subdivisions in Buffalo County, Nebraska (31019) (see separate note above)
+    Lumber City borough (independent place), Clearfield County, Pennsylvania (4203345448)
+    District 8, Greene County, Tennessee (4705991390)
+    District 4, Lake County, Tennessee (4709590666)
+    Districts 11 through 20 in Macon County, Tennessee (47111)
+
+Places That No Longer Exist for 2016
+
+The following places no longer exist:
+
+    Statenville CDP, Georgia (1373200)
+    Arnold CDP, Minnesota (2702260)
+    East Garden City CDP, New York (3622065)
+    Lumber City borough, Pennsylvania (4245448)
+    Doyle CDP, Texas (4821283)
+    Klahanie CDP, Washington (5336101)
+    Minden CDP, West Virginia (5454508)
+
+Boundary Changes
+
+Some areas of the nation will now have reduced comparability, primarily due to boundary changes. Changes are based on a variety of reasons including annexation, disincorporation, and geocoding updates. Generally this occurs:
+
+    In states that have nonfunctioning county subdivisions that are redistricted after the census, as are found in Arkansas, Louisiana, Mississippi, Nebraska (precincts), Tennessee, Virginia, and West Virginia. In 2016, Tennessee submitted county subdivision changes for every county in the state.
+    In states that have less restrictive annexation or consolidation laws such as in most states outside the Northeast Region
+
+For those entities that experienced changes, making comparisons between an entity in its 2015 form to its 2016 form should be done cautiously and with good understanding that the entity may be substantially different in its 2016 form. We encourage use of TIGER/Line Shapefile products to perform detailed comparisons of the inventory and boundaries of geographic areas, by year. Information about these files and links to the mapping files themselves can be found at the TIGER Products Guide page.
+
+Legislative Redistricting
+
+Every two years, the Census Bureau obtains information of the redistricting of congressional districts and the upper and lower chambers of state legislative districts. For 2016, the following states reported changes:
+
+    Congressional Districts: Florida, Minnesota, North Carolina, and Virginia
+    State Legislative Districts (Upper Chamber): Florida and Minnesota
+    State Legislative Districts (Lower Chamber): Florida, Georgia, Maryland, and Minnesota
+
+School Districts
+
+Every two years, the Census Bureau obtains information on the current boundaries of school districts. For 2016, 34 states reported at least one school district change: Alabama, Alaska, Arizona, Arkansas, California, Connecticut, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Maine, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Jersey, New York, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Washington, and Wisconsin.
+
+The most significant changes occurred in Vermont where many school districts consolidated and extensively redefined.
+
+Metropolitan and Micropolitan Statistical Areas
+
+The Office of Management and Budget (OMB) announced updates to Metropolitan and Micropolitan Statistical Areas in OMB Bulletin No. 15-01 on July 15, 2015. The announcement changed the designation of one micropolitan statistical area to a metropolitan statistical area and created 16 new micropolitan statistical areas, five new combined statistical areas, one new New England City and Town Metropolitan and Micropolitan Statistical Area and Combined New England City and Town Metropolitan and Micropolitan Statistical Area. The announcement also modified the names, codes, and definitions of some existing areas and designated new principal cities.
+
+Geographic Notes
+
+The 115th Congressional District data has been released and the 2016 ACS 1-year estimates are available for these updated Congressional Districts. State Legislative Districts have also been updated and estimates for those areas are included in the 2012-2016 ACS 5-year release.
+
+*** 2017 ***
+
+
+Changes in the Inventory of Entities
+
+Each year some new entities come into existence and other entities are deleted. This is the result of new incorporations or statistical delineations, the redrawing or splitting of administrative areas, disincorporations, mergers and consolidations, and other types of changes.
+
+New Geographies for 2017
+
+The following geographies are new for 2017:
+
+American Indian Area/Alaska Native Area/Hawaiian Home Land Trust Lands
+
+    Barona Off-Reservation Trust Land (03974T)
+    Big Pine Off-Reservation Trust Land (06630T)
+    Bridgeport Off-Reservation Trust Land (08244T)
+    Enterprise Off-Reservation Trust Land (22738T)
+    Mashpee Wampanoag Trust Land (39156T)
+    Match-e-be-nash-she-wish Band of Pottawatomi Off-Reservation Trust Land (52305T)
+    Pokagon Off-Reservation Trust Land (60904T)
+    Stewarts Point Off-Reservation Trust Land (74162T)
+    Upper Skagit Off-Reservation Trust Land (73652T)
+
+County Subdivision
+
+    Brant Lake City, South Dakota (4607040)
+    Dayton City, Ohio (3905721000)
+    District A, Louisiana (2212595751)
+    District B, Louisiana (2212595766)
+    District C, Louisiana (2212595781)
+    District D, Louisiana (2212595795)
+    Fox Crossing Village, Wisconsin (5513926982)
+    Raymond City, Wisconsin (5513953296)
+    Washington Township, Ohio (3915951242)
+
+Place
+
+    Brant Lake South CDP, South Dakota (4607044
+    Fox Crossing Village, Wisconsin (5526982)
+    Sonterra CDP, Texas (4868762)
+    St. Rose Village, Illinois (1767158)
+    Stonecrest City, Georgia (1373784)
+    Tucker City, Georgia (1377622)
+    Westlake City, Florida (1276417)
+
+Changes to FIPS and NS Codes for Entities
+
+These entities have had a FIPS or National Standard (NS) code change in 2017 that could impact comparison to data from previous years:
+
+Change to FIPS Code
+
+    2010 Name- Bellerive Village 2010 FIPS-2904240
+
+2017 Name- Bellerive Acres City 2017 FIPS-2904248
+
+Change to NS Code
+
+    2010 Name- Wallins Creek City 2010 NS-02405684
+
+2017 Name- Wallins Creek CDP 2017 NS-02785008
+
+    2010 Name- Water Valley City 2010 NS-02405664
+
+2017 Name- Water Valley CDP 2017 NS-02785008
+
+    2010 Name- Zalma Village 2010 NS-02399756
+
+2017 Name- Zalma CDP 2017 NS-022786553
+
+Change to FIPS Code and NS Code
+
+    2010 Name- District 2 2010 NS-01929927 2010 FIPS-2212594363
+
+2017 Name- District C 2017 NS-02786558 2017 FIPS-2212595781
+
+    2010 Name- Evanston Township 2010 NS-00428983 2010 FIPS-1724595
+
+2017 Name- Evanston City 2017 NS-02394709 2017 FIPS-1724582
+
+    2010 Name- Washington Township 2010 NS-02585563 2010 FIPS-3981203
+
+2017 Name- Washington Township 2017 NS-01086117 2017 FIPS-3981242
+
+Comparability Changes
+
+Some areas of the nation will now have reduced comparability with data from previous years. Changes are based on a variety of aspects including population, housing and land area changes that now make that comparability obsolete. Non-comparable areas for 2017 include:
+
+County Subdivisions
+
+    District 1, Louisiana (2209964123)
+    District 11, Louisiana (2204595566)
+    District 2, Louisiana (2204594264)
+    District 4, Louisiana (2209994687)
+    District 5, Louisiana (2209994885)
+    District 6, Louisiana (2209995050)
+    District 8, Louisiana (2204595281)
+    Abingdon District, Virginia (5107390008)
+    Cedar Mountain District, Virginia (5104790680)
+    York District, Virginia (5107396471)
+
+Places
+
+    Brant Lake City, South Dakota (4607040)
+    Roma Creek CDP, Texas (4863026)
+
+School Districts
+
+    Ashland Elementary School District, Montana (3003750)
+    Froid Elementary School District, Montana (3011550)
+    Lodge Grass Elementary School District, Montana (3017010)
+    Yellowstone Academy Elementary School District, Montana  (3028860)
+    Big Sandy High School District, Montana (3003750)
+    Bozeman High School District, Montana (3004590)
+    Rocky Boy High School District, Montana (3028911)
+    
+*** 2018 ***
+
+
+Changes in the Inventory of Entities
+
+Each year some new entities come into existence and other entities are dissolved. This may be the result of new incorporations or statistical delineations, the redrawing or splitting of administrative areas, disincorporations, mergers and consolidations, and other types of changes.
+
+New Geographies for 2018
+
+The following geographies are new for 2018:
+
+American Indian Area/Alaska Native Area/Hawaiian Home Land Trust Lands
+
+    Kickapoo Off-Reservation, Texas Trust Land (39094T)
+    Reno-Sparks Off-Reservation, Nevada Trust Land (60650T)
+    Umatilla Off-Reservation, Washington & Oregon Trust Land (73176T)
+
+County Subdivision
+
+    Fillmore Consolidated township, Illinois (1726904)
+    Midway district, Virginia (5194683)
+    Ovid city, Michigan (2661860)
+    Palm Tree town, New York (3656185)
+    Sperry/Goodrich township, North Dakota (3874600)
+
+Place
+
+    Cedar Highlands town, Utah (4911435)
+    Crooked River Ranch CDP , Oregon (4116975)
+    Eugene CDP, Missouri (2922798)
+    Plantersville city, Texas (4858040)
+    Salem Lakes village, Wisconsin (5571163)
+    South Fulton city, Georgia (1372122)
+    Spring Branch city, Texas (4869608)
+    Van Wyck town, South Carolina (4573555)
+
+Elementary School District
+
+    Bluford Unit School District 318 (KG-8) in Mount Vernon, Illinois (1799002)
+    Davidson Public Schools, Oklahoma (4009480)
+    Herman-Neosho-Rubicon School District, Wisconsin (5500075)
+    Lake Benton Public School District, Minnesota (2717460)
+    Woodlawn Unit District 209 (KG-8) in Mount Vernon, Illinois (1799003)
+    Woodlawn Unit District 209 (KG-8) in Nashville, Illinois (1799007)
+
+Secondary School District
+
+    Bluford Unit School District 318 (9-12) in Farrington, Illinois (1799001)
+    Bluford Unit School District 318 (9-12) in Opdyke-Belle River, Illinois (1799004)
+    Caruthers Unified School District (9-12), California (0699002)
+    Coast Unified School District (9-12), California (0699009)
+    Elkton School District 05-3 in Lake Benton (7-12), Minnesota (2799001)
+    Eureka City Unified School District (7-12), California (0699006)
+    Eureka City Unified School District (9-12), California (0699007)
+    Frederick Public Schools in Davidson (9-12), Oklahoma (4099001)
+    Gridley Unified School District (9-12), California (0699001)
+    Hughson Unified School District (9-12), California (0699012)
+    Nevada Joint Union High School District (9-12), California (0699014)
+    Oakdale Joint Unified School District (9-12), California (0699013)
+    Orland Joint Unified School District (9-12), California (0699005)
+    Paso Robles Joint Unified School District (9-12), California (0699010)
+    Riverdale Joint Unified School District (9-12), California (0699003)
+    Santa Cruz City High School District (6-12), California (0699011)
+    Sierra Unified School District (9-12), California (0699004)
+    Upper Lake Unified School District (9-12), California (0699008)
+    Woodlawn Unit District 209 (9-12) in Ashley, California (0699008)
+    Woodlawn Unit District 209 (9-12) in Grand Prairie, California (0699005)
+    Woodlawn Unit District 209 (9-12) in Rome, California (0699006)
+
+Unified School District
+
+    Big Sandy K-12 Schools, Montana (3003750)
+    Burlington Public Schools, Maine (2314834)
+    Byron Public Schools, Maine (2314835)
+    Cary Plantation Public Schools, Maine (2314830)
+    Central Valley Public Schools, Nebraska (3100185)
+    Hale's Location School District, New Hampshire (3303279)
+    Jacksonville North Pulaski School District, Arkansas (0500419)
+    Loch Arbour School District, New Jersey (3400790)
+    Olustee-Eldorado Public Schools, Oklahoma (4000797)
+    Plains K-12 Schools, Montana (3020850)
+    Regional School Unit 56, Maine (2314833)
+    Riverside Public Schools, Nebraska (3100184)
+    Upper Lake Unified School District, California (0601442)
+    Woodlawn Unit District 209, Illinois (1701422)
+
+Changes to FIPS Codes and Names for Entities
+
+These entities have had a FIPS and/or name change in 2018 that could impact comparison to data from previous years, * indicates the record has a name change:
+Change to FIPS Code
+
+County Subdivision
+
+    *2010 Name- Belleville township, Illinois 2010 FIPS - 1716304858
+
+2018 Name- Belleville city, Illinois 2018 FIPS - 1716304845
+
+    *2010 Name- Framingham town, Massachusetts 2010 FIPS - 2501724925
+
+2018 Name- Framingham city, Massachusetts 2018 FIPS - 2501724960
+
+    *2010 Name- Cecil township, North Dakota 2010 FIPS - 3800913060
+
+2018 Name- Cecil UT, North Dakota 2018 FIPS - 3800913061
+
+    *2010 Name- Whitby township, North Dakota 2010 FIPS - 3800985420
+
+2018 Name- Whitby UT, North Dakota 2018 FIPS - 3800985421
+
+    *2010 Name- Salem town, Wisconsin 2010 FIPS - 5505971125
+
+2018 Name- Salem Lakes village, Wisconsin 2018 FIPS - 5505971163
+
+Place
+
+    *2010 Name- Barrow city, Alaska 2010 FIPS - 0205200
+
+2018 Name- Utqiaģvik city, Alaska 2018 FIPS - 0281920
+
+    *2010 Name- Ocean Breeze Park town, Florida 2010 FIPS - 1250900
+
+2018 Name- Ocean Breeze town, Florida 2018 FIPS - 1250875
+
+Elementary School District
+
+    2010 Name- Carthage Elementary School District 317, Illinois 2010 FIPS - 1708680
+
+2018 Name- Carthage Elementary School District 317, Illinois 2018 FIPS - 1701385
+
+    *2010 Name- Cottonwood Elementary School District, Illinois 2010 FIPS - 1700089
+
+2018 Name- Trail Creek Elementary School District, Illinois 2018 FIPS - 1726400
+
+    2010 Name- Dallas Elementary School District 327, Illinois 2010 FIPS - 1711670
+
+2018 Name- Dallas Elementary School District 327, Illinois 2018 FIPS - 1701388
+
+    2010 Name- La Harpe Community School District 347, Illinois 2010 FIPS - 1721690
+
+2018 Name- La Harpe Community School District 347, Illinois 2018 FIPS - 1701381
+
+Secondary School District
+
+    2010 Name- Perris Union High School District, Illinois 2010 FIPS - 1730210
+
+2018 Name- Perris Union High School District, Illinois 2018 FIPS - 1706034
+
+Unified School District
+
+    2010 Name- North Cape School District, Wisconsin 2010 FIPS - 5512510
+
+2018 Name- North Cape School District, Wisconsin 2018 FIPS - 5510800
+
+    2010 Name- Norway Joint No. 7 School District, Wisconsin 2010 FIPS - 5510800
+
+2018 Name- Norway Joint No. 7 School District 2018 FIPS - 5512510
+
+    *2010 Name- West Boyd Public Schools, Nebraska 2010 FIPS - 3100180
+
+2018 Name- Boyd County Schools, Nebraska 2018 FIPS - 3100187
+
+    2010 Name- West Carroll Community Unit School District 314, Illinois 2010 FIPS - 1700130
+
+2018 Name- West Carroll Community Unit School District 314, Illinois 2018 FIPS - 1700310
+
+Name Change Only
+
+Place
+
+    FIPS-2101000
+
+2010 Name- Allensville city, Kentucky
+
+2018 Name- Allensville CDP, Kentucky
+
+    FIPS-3604528
+
+2010 Name- Barneveld village, New York
+
+2018 Name- Barneveld CDP, New York  
+
+    FIPS-2909802
+
+2010 Name- Burgess town, Missouri
+
+2018 Name- Burgess CDP, Missouri  
+
+    FIPS-3722560
+
+2010 Name- Centerville town, North Carolina
+
+2018 Name- Centerville CDP, North Carolina
+
+    FIPS-4117800
+
+2010 Name- Damascus city, Oregon
+
+2018 Name- Damascus CDP, Oregon  
+
+    FIPS-2524960
+
+2010 Name- Framingham CDP, Massachusetts
+
+2018 Name- Framingham city, Massachusetts
+
+    FIPS-3634165
+
+2010 Name- Hermon village, New York
+
+2018 Name- Hermon CDP, New York  
+
+    FIPS-3632220
+
+2010 Name- Herrings village, New York
+
+2018 Name- Herrings CDP, New York
+
+    FIPS-1233700
+
+2010 Name- Indiantown CDP, Florida  
+
+2018 Name- Indiantown village, Florida  
+
+    FIPS-2943346
+
+2010 Name- Lithium village, Missouri
+
+2018 Name- Lithium CDP, Missouri  
+
+    FIPS-3644149
+
+2010 Name- Macedon village, New York
+
+2018 Name- Macedon CDP, New York
+
+    FIPS-1954795
+
+2010 Name- Mount Union city, Iowa
+
+2018 Name- Mount Union CDP, Iowa  
+
+    FIPS-4956750
+
+2010 Name- Ophir town, Utah
+
+2018 Name- Ophir CDP, Utah  
+
+    FIPS-3659333
+
+2010 Name- Port Henry village, New York
+
+2018 Name- Port Henry CDP, New York  
+
+    FIPS-2960410
+
+2010 Name- Quitman town, Missouri
+
+2018 Name- Quitman CDP, Missouri  
+
+    FIPS-2964370
+
+2010 Name- St. George city, Missouri
+
+2018 Name- St. George CDP, Missouri
+
+    FIPS-0284000
+
+2010 Name- Whale Pass CDP, Alaska  
+
+2018 Name- Whale Pass city, Alaska
+
+*** 2019 ***
+
+Changes in the Universe of Geographic Entities
+
+Each year some new entities come into existence and other entities are dissolved. This may be the result of new incorporations or statistical delineations, the redrawing or splitting of administrative areas, disincorporations, mergers and consolidations, and other types of changes.
+
+New Geographies for 2019
+
+American Indian Area/Alaska Native Area/Hawaiian Home Land Trust Lands
+
+    Skokomish Off-Reservation Trust Land, Washington GEOID-3825T
+    San Pasqual Off-Reservation Trust Land, California GEOID-3460T
+    Yavapai-Apache Nation Off-Reservation Trust Land, Arizona GEOID-4708T
+
+County Subdivision
+
+    Rocky Run-Wilcox township, Illinois GEOID-1706765240
+
+Census Designated Place
+
+    Dutchtown CDP, Missouri GEOID-2920566
+    Hastings CDP, Florida GEOID-1229100
+
+Incorporated Place
+
+    Bluff town, Utah GEOID-4906700
+    Copperton metro township, Utah GEOID-4915720
+    Berlin town, Alabama GEOID-0105812
+    Bridgewater Town city, Massachusetts GEOID-2508130
+    Carbonate town, Colorado GEOID-0812080
+    Emigration Canyon metro township, Utah GEOID-4922875
+    Kearns metro township, Utah GEOID-4940470
+    Keene city, Kentucky GEOID-2141716
+    Magna metro township, Utah GEOID-4947290
+    Randolph Town city, Massachusetts GEOID-2556000
+    South Fulton city, Georgia GEOID-1372122
+    St. Mary city, Kentucky GEOID-2167890
+    The Highlands city, Kansas GEOID-2070357
+    White City metro township, Utah GEOID-4984050
+    Yorkville village, Wisconsin GEOID-5589550
+
+Elementary School District
+
+    Holy Hill Area School District, Wisconsin GEOID-5500080
+
+Unified School District
+
+    Bluff Dale Independent School District, Texas GEOID-4810620
+    Eagle Lake Public Schools, Maine GEOID-2314839
+    East Helena K-12, Montana GEOID-3009560
+    Essex-Westford Educational Community Unified School District, Vermont GEOID-5000395
+    Greater Rutland County Supervisory Union, Vermont GEOID-5000405
+    Holmes County Consolidated School District, Mississippi GEOID-2800195
+    Lockwood K-12, Montana GEOID-3016950
+    Moro Plantation Public Schools, Maine GEOID-2314836
+    Mount Greylock School District, Massachusetts GEOID-2508160
+    North Rock Creek Public School, Oklahoma GEOID-4021840
+    Oregon Trail School District 46, Oregon GEOID-4110890
+    Regional School Unit 89, Maine GEOID-2314838
+    Sebago Public Schools, Maine GEOID-2314837
+    Silver Falls School District 4J, Oregon GEOID-4111450
+    Winona-Montgomery County Consolidated School District, Mississippi GEOID-2800196
+
+Removed Geographic Entities for 2019
+
+County Subdivision
+
+    Brady Lake village, Ohio GEOID-3913308168
+    Brokaw village, Wisconsin GEOID-5507309975
+    Le Sueur city, Minnesota GEOID-2710336746
+    Menasha town, Wisconsin GEOID-5513950850
+    Oxbow plantation, Maine GEOID-2300356205
+    Randolph town, Massachusetts GEOID-2502155955
+    Rocky Run township, Illinois GEOID-1706765234
+    Sherrill city, New York GEOID-3606566993
+    Wilcox township, Illinois GEOID-1706781607
+    Williamstown town, Wisconsin GEOID-5502787225
+
+Census Designated Place
+
+    Bluff CDP, Utah GEOID-4906700
+    Bluffview CDP, Wisconsin GEOID-5508560
+    Bridgewater CDP, Massachusetts GEOID-2508050
+    Copperton CDP, Utah GEOID-4915720
+    Emigration Canyon CD, Utah GEOID-4922875
+    Kearns CDP, Utah GEOID-4940470
+    Magna CDP, Utah GEOID-4947290
+    Midvale CDP, Montana GEOID-3049400
+    Randolph CDP, Massachusetts GEOID-2555990
+    Southfield CDP, Massachusetts GEOID-2563840
+    White City CDP, Utah GEOID-4984050
+
+Incorporated Place
+
+    Brokaw village, Wisconsin GEOID-5509975
+    Dutchtown Village, Missouri GEOID-2920566
+    Dycusburg city, Kentucky GEOID-2123140
+    Hastings town, Florida GEOID-1229100 *Hastings town Incorporated Place dissolved and not spatially similar or comparable to Hastings CDP.
+    Lake Mykee Town village, Missouri GEOID-2939990
+    Mackenzie village, Missouri GEOID-2945110
+
+Elementary School District
+
+    Adams Public School District 128, North Dakota GEOID-3801680
+    Bluff Dale Independent School District, Texas GEOID-4810620
+    Chittenden Central Supervisory Union in Essex Junction (PK-8), Vermont GEOID-5050004
+    East Helena Elementary School District, Montana GEOID-3009560
+    Essex Town School District, Vermont GEOID-5003840
+    Friess Lake School District, Wisconsin GEOID-5512880
+    Lanesborough School District, Massachusetts GEOID-2506630
+    Lockwood Elementary School District, Montana GEOID-3016950
+    North Rock Creek Public School, Oklahoma GEOID-4021840
+    Richfield Joint No. 1 School District, Wisconsin GEOID-5512900
+    Springdale Elementary School District, Montana GEOID-3024780
+    Williamstown School District, Massachusetts GEOID-2513020
+    Winfield Independent School District, Texas GEOID-4846110
+
+Secondary School District
+
+    Essex Community Education Center, Vermont GEOID-5000006
+    Mount Greylock School District, Massachusetts GEOID-2508160
+    Mount Pleasant Independent School District (9-12) in Winfield, Texas GEOID-4848449
+    Stephenville Independent School District (9-12) in Bluff Dale, Texas GEOID-4848143
+
+Unified School District
+
+    Aurelia Community School District, Iowa GEOID-1904020
+    Battle Creek-Ida Grove Community School District, Iowa GEOID-1904320
+    Blue Mountain Union School District 21, Vermont GEOID-5008224
+    Chittenden Central Supervisory Union, Vermont GEOID-5099913
+    Coleridge Community Schools, Nebraska GEOID-3105310
+    Durant Public School District, Mississippi GEOID-2801360
+    Essex Caledonia Supervisory Union, Vermont GEOID-5099918
+    Holmes County School District, Mississippi GEOID-2801980
+    Lumberton Public School District, Mississippi GEOID-2802760
+    Montgomery County School District, Mississippi GEOID-2802970
+    Oregon Trail School District 46, Oregon GEOID-4110920
+    Rutland Central Supervisory Union, Vermont GEOID-5099937
+    Rutland Southwest Supervisory Union, Vermont GEOID-5099938
+    School District Not Defined, Nebraska GEOID-3199997
+    Silver Falls School District 4J, Oregon GEOID-4111470
+    Valley Community School District, Iowa GEOID-1928710
+    Washington South Supervisory Union, Vermont GEOID-5099943
+    Windsor Northwest Supervisory Union, Vermont GEOID-5099950
+    Winona Separate School District, Mississippi GEOID-2804740
+
+Changes to GEOID Codes and Names for Geographic Entities
+
+These entities had a GEOID and/or name change in 2019 that impact comparison to data from previous years:
+Change to GEOID Code and Name
+
+County Subdivision
+
+    2018 Name- Bridgewater town, Massachusetts 2018 GEOID- 2502308085
+    2019 Name- Bridgewater Town city, Massachusetts 2019 GEOID- 2502308130
+    2018 Name- Randolph town, Massachusetts 2018 GEOID-2502155955
+    2019 Name- Randolph Town city, Massachusetts 2019 GEOID-   2502156000
+    2018 Name- Yorkville town, Wisconsin 2018 GEOID-5510189575
+    2019 Name- Yorkville village, Wisconsin 2019 GEOID-5510189550
+
+Name Change Only
+
+American Indian Area/Alaska Native Area/Hawaiian Home Land Trust Lands
+
+    GEOID-6340R
+    2018 Name- Chulloonawick ANVSA, Alaska
+    2019 Name- Chuloonawick ANVSA, Alaska
+
+Census Designated Place
+
+    GEOID-3908168
+    2018 Name- Brady Lake village, Ohio
+    2019 Name- Brady Lake CDP, Ohio
+    GEOID-3010000
+    2018 Name- Brockton town, Montana
+    2019 Name- Brockton CDP, Montana
+    GEOID-5076900
+    2018 Name- Waterbury village, Vermont
+    2019 Name- Waterbury CDP, Vermont
+
+Incorporated Place
+
+    GEOID-2200835
+    2018 Name- Albany Village, Louisiana
+    2019 Name- Albany town, Louisiana
+    GEOID-3812060
+    2018 Name- Canton City city, North Dakota
+    2019 Name- Canton City (Hensel) city, North Dakota
+    GEOID-3913169
+    2018 Name- Centerville village, Ohio
+    2019 Name- Centerville (Thurman) village, Ohio
+    GEOID-3929288
+    2018 Name- Gann village, Ohio
+    2019 Name- Gann (Brinkhaven) village, Ohio 
+    GEOID-3934202
+    2018 Name- Hartford village, Ohio
+    2019 Name- Hartford (Croton) village, Ohio
+    GEOID-3123270
+    2018 Name- Howard City village, Nebraska
+    2019 Name- Howard City (Boelus) village, Nebraska
+    GEOID-5336395
+    2018 Name- Krupp town, Washington
+    2019 Name- Krupp (Marlin) town, Washington
+    GEOID-4743780
+    2018 Name- Loudon town, Tennessee
+    2019 Name- Loudon city, Tennessee 
+    GEOID-1862028
+    2018 Name- Princes Lakes town, Indiana
+    2019 Name- Prince’s Lakes town, Indiana
+    GEOID-3968196
+    2018 Name- Rome village, Ohio
+    2019 Name- Rome (Stout) village, Ohio
+    GEOID-2963596
+    2018 Name- Rushville town, Missouri
+    2019 Name- Rushville village, Missouri 
+
+Elementary School District
+
+    GEOID-3813760
+    2018 Name- New Public School District 8, North Dakota
+    2019 Name- Williams County Public School District 8, North Dakota
+
+Unified School District
+
+    GEOID-0806900
+    2018 Name- Northglenn-Thornton School District 12, Colorado
+    2019 Name- Adams 12 Five Star Schools, Colorado
+    GEOID-5099903
+    2018 Name- Addison Central Supervisory Union, Vermont
+    2019 Name- Addison Central Unified School District, Vermont
+    GEOID-5099902
+    2018 Name- Addison Northwest Supervisory Union, Vermont
+    2019 Name- Addison Northwest Unified School District, Vermont
+    GEOID-1903480
+    2018 Name- Alta Community School District, Iowa
+    2019 Name- Alta-Aurelia Community School District, Iowa
+    GEOID-0802400
+    2018 Name- Bayfield School District R-10-JT, Colorado
+    2019 Name- Bayfield School District 10 JT-R, Colorado
+    GEOID-5099929
+    2018 Name- Orange North Supervisory Union, Vermont
+    2019 Name- Central Vermont Supervisory Union, Vermont
+    GEOID-5099914
+    2018 Name- Chittenden South Supervisory Union, Vermont
+    2019 Name- Champlain Valley Unified School District, Vermont
+    GEOID-3105460
+    2018 Name- Cozad City Schools, Nebraska
+    2019 Name- Cozad Community Schools, Nebraska
+    GEOID-0803150
+    2018 Name- Creede Consolidated School District 1, Colorado
+    2019 Name- Creede School District, Colorado
+    GEOID-3105550
+    2018 Name- Creighton Public Schools, Nebraska
+    2019 Name- Creighton Community Public Schools, Nebraska
+    GEOID-3100077
+    2018 Name- Dundy County Public Schools, Nebraska
+    2019 Name- Dundy County Stratton Public Schools, Nebraska
+    GEOID-0803870
+    2018 Name- Falcon School District 49, Colorado
+    2019 Name- El Paso County School District 49, Colorado
+    GEOID-0803720
+    2018 Name- Elizabeth School District C-1, Colorado
+    2019 Name- Elizabeth School District, Colorado
+    GEOID-0803810
+    2018 Name- Park School District R-3, Colorado
+    2019 Name- Estes Park School District R-3, Colorado
+    GEOID-0803960
+    2018 Name- Florence School District RE-2, Colorado
+    2019 Name- Fremont RE-2, Colorado
+    GEOID-5099942
+    2018 Name- Washington West Supervisory Union, Vermont
+    2019 Name- Harwood Unified School District, Vermont
+    GEOID-3100183
+    2018 Name- Howells-Dodge Public Schools, Nebraska
+    2019 Name- Howells-Dodge Consolidated Schools, Nebraska
+    GEOID-5099908
+    2018 Name- Caledonia North Supervisory Union, Vermont
+    2019 Name- Kingdom East Supervisory District, Vermont
+    GEOID-3100004
+    2018 Name- Laurel-Concord Public Schools, Nebraska
+    2019 Name- Laurel-Concord-Coleridge School, Nebraska
+    GEOID-5099923
+    2018 Name- Franklin Central Supervisory Union, Vermont
+    2019 Name- Maple Run Unified School District, Vermont
+    GEOID-5099933
+    2018 Name- Rutland South Supervisory Union, Vermont
+    2019 Name- Mill River Unified School District, Vermont
+    GEOID-5005610
+    2018 Name- Milton Incorporated School District, Vermont
+    2019 Name- Milton School District, Vermont
+    GEOID-0805700
+    2018 Name- Moffat Consolidated School District 2, Colorado
+    2019 Name- Moffat School District 2, Colorado
+    GEOID-5005700
+    2018 Name- Montpelier School District, Vermont
+    2019 Name- Montpelier-Roxbury Supervisory Union, Vermont
+    GEOID-5099901
+    2018 Name- Addison Northeast Supervisory Union, Vermont
+    2019 Name- Mt. Abraham Unified School District, Vermont
+    GEOID-1900006
+    2018 Name- North Fayette Community School District, Iowa
+    2019 Name- North Fayette Valley Community School District, Iowa
+    GEOID-1921600
+    2018 Name- Odebolt-Arthur Community School District, Iowa
+    2019 Name- Odebolt Arthur Battle Creek Ida Grove Community School District, Iowa
+    GEOID-5099928
+    2018 Name- Orange Southwest Supervisory Union, Vermont
+    2019 Name- Orange Southwest Unified School District, Vermont
+    GEOID-3175030
+    2018 Name- Osmond Public Schools, Nebraska
+    2019 Name- Osmond Community Schools, Nebraska
+    GEOID-3175270
+    2018 Name- Papillion-La Vista Public Schools, Nebraska
+    2019 Name- Papillion-La Vista Community Schools, Nebraska
+    GEOID-3814880
+    2018 Name- Park River Public School District 78, North Dakota
+    2019 Name- Park River Area Public School District 8, North Dakota
+    GEOID-3104950
+    2018 Name- Raymond Central Schools, Nebraska
+    2019 Name- Raymond Central Public Schools, Nebraska
+    GEOID-0806000
+    2018 Name- Platte Valley School District RE-3, Colorado
+    2019 Name- Revere School District, Colorado
+    GEOID-1713290
+    2018 Name- East Richland Community Unit School District 1, Illinois
+    2019 Name- Richland County Community Unit School District 1, Illinois
+    GEOID-4838520
+    2018 Name- St. Jo Independent School District, Texas
+    2019 Name- Saint Jo Independent School District, Texas
+    GEOID-0802580
+    2018 Name- Brighton School District 27Jn, Colorado
+    2019 Name- School District 27J, Colorado
+    GEOID-5307710
+    2018 Name- Seattle School District, Washington
+    2019 Name- Seattle Public Schools, Washington
+    GEOID-3176590
+    2018 Name- Shelby Public Schools, Nebraska
+    2019 Name- Shelby-Rising City Public Schools, Nebraska
+    GEOID-3175630
+    2018 Name- South Sarpy District 46, Nebraska
+    2019 Name- Springfield Platteview Community Schools, Nebraska
+    GEOID-4842780
+    2018 Name- Throckmorton Independent School District, Texas
+    2019 Name- Throckmorton Collegiate Independent School District, Texas
+    GEOID-3100129
+    2018 Name- Twin Rivers Public Schools, Nebraska
+    2019 Name- Twin River Public Schools, Nebraska
+    GEOID-3119560
+    2018 Name- Umonhon Nation Public Schools, Nebraska
+    2019 Name- Umo N Ho N Nation Public Schools, Nebraska
+    GEOID-5309450
+    2018 Name- Walla Walla School District, Washington
+    2019 Name- Walla Walla Public Schools, Washington
+    GEOID-0804920
+    2018 Name- Keenesburg School District RE-3J, Colorado
+    2019 Name- Weld County School District RE-3J, Colorado
+    GEOID-0807230
+    2018 Name- Westminster School District 50, Colorado
+    2019 Name- Westminster Public School District, Colorado
+    GEOID-5099930
+    2018 Name- Orange Windsor Supervisory Union, Vermont
+    2019 Name- White River Valley Supervisory Union, Vermont
+
+
+
+

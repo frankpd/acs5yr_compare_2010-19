@@ -55,7 +55,6 @@ The percentage of total estimates included in each category.
 
 | Summary by    | All Records |      |
 |---------------|-------------|------|
-| Total         | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_total_grand.txt)    | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_total_grand.tsv) |
 | Geography     | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_share_geo.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_share_geo.tsv) |
 | Table         | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_share_tab.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_share_tab.tsv) |
 | Variable      | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_share_var.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_share_var.tsv) | 
@@ -72,7 +71,8 @@ The percentage of total estimates that are significantly different. Filtered opt
 
 | Summary by                  | All Records |      | Filtered & Sorted |      |
 |-----------------------------|-------------|------|-------------------|------|
-| Total                       | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_all.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_all.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_all.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_all.tsv) |
+| Grand Total         | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_total_grand.txt)    | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_total_grand.tsv) | | |
+| All Records                       | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_all.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_all.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_all.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_all.tsv) |
 | Geography                   | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_geo.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_geo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_geo.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_geo.tsv) |
 | Table                       | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_tab.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_tab.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_tab.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_tab.tsv) |
 | Table & Geography           | [Report](acs_timeseries_project/output/summary_analysis/reports/sigdif_pct_tabgeo.txt)   | [Data](acs_timeseries_project/output/summary_analysis/sumdata/sigdif_pct_tabgeo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/sigdif_pct_tabgeo.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/sigdif_pct_tabgeo.tsv) |
@@ -93,7 +93,6 @@ Variable types include:
 
 | Summary by    | All Records |      |
 |---------------|-------------|------|
-| Total         | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_total_grand.txt)    | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_total_grand.tsv) |
 | Geography     | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_geo.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_geo.tsv) |
 | Table         | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_tab.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_tab.tsv) |
 | Variable      | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_share_var.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_share_var.tsv) | 
@@ -111,7 +110,8 @@ For estimates that were significantly different, the percentage of total estimat
 
 | Summary by                  | All Records |      | Filtered & Sorted |      |
 |-----------------------------|-------------|------|-------------------|------|
-| Total                       | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_pct_all.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_pct_all.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/change_cv_pct_all.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/change_cv_pct_all.tsv) |
+| Grand Total         | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_total_grand.txt)    | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_total_grand.tsv) | | |
+| All Records                       | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_pct_all.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_pct_all.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/change_cv_pct_all.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/change_cv_pct_all.tsv) |
 | Geography                   | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_pct_geo.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_pct_geo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/change_cv_pct_geo.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/change_cv_pct_geo.tsv) |
 | Table                       | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_pct_tab.txt)      | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_pct_tab.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/change_cv_pct_tab.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/change_cv_pct_tab.tsv) |
 | Table & Geography           | [Report](acs_timeseries_project/output/summary_analysis/reports/change_cv_pct_tabgeo.txt)   | [Data](acs_timeseries_project/output/summary_analysis/sumdata/change_cv_pct_tabgeo.tsv) | [Report](acs_timeseries_project/output/summary_analysis/reports/filtered_sorted/change_cv_pct_tabgeo.txt)            | [Data](acs_timeseries_project/output/summary_analysis/sumdata/filtered_sorted/change_cv_pct_tabgeo.tsv) |

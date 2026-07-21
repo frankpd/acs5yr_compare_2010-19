@@ -1,0 +1,99 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Calculate spearman's correlation coefficeints between several ratio variables
+and count of significant difference and medium / high CVs for sig dif values
+for every geography. Draws from a View in the database that collates the 
+variables together.'
+
+Frank Donnelly
+July 29, 2025 / rev Aug 17, 2025
+"""
+
+import os, csv, json, psycopg2, pandas as pd
+from scipy import stats
+
+geo_dir=os.path.join('output','summary_analysis')
+
+geo_file_sd=os.path.join(geo_dir,'geosd_count.json')
+geo_sd=pd.read_json(geo_file_sd,orient='index')
+geo_sd.index.name='geoid'
+
+geo_file_cv=os.path.join(geo_dir,'geocv_count.json')
+geo_cv=pd.read_json(geo_file_cv,orient='index')
+geo_cv.index.name='geoid'
+geo_cv['medhigh']=geo_cv['medium']+geo_cv['high']
+geo_cv['medhigh_pct']=geo_cv['medium_pct']+geo_cv['high_pct']
+
+# Database connection parameters
+pgdb='acs_timeseries' #postgres db name
+pguser='postgres'
+pgpswd='postgres'
+pgport='5432'
+pghost='localhost'
+pgschema='public' #postgres schema
+
+conpg = psycopg2.connect(database=pgdb, user=pguser, password=pgpswd,
+                              host=pghost, port=pgport)
+curpg=conpg.cursor()
+
+sql_str='''SELECT * FROM corr_vars;'''
+
+curpg.execute(sql_str)
+results = curpg.fetchall()
+cols = [desc[0] for desc in curpg.description]
+conpg.close()
+
+corvars = pd.DataFrame(results, columns=cols)
+corvars.set_index('geoid',inplace=True,drop=True)
+
+# Value for the entire US is a huge outlier
+joined_sd=pd.merge(geo_sd,corvars,left_index=True,right_index=True,how='inner')
+joined_sd.drop('01000US',inplace=True)
+joined_cv=pd.merge(geo_cv,corvars,left_index=True,right_index=True,how='inner')
+joined_cv.drop('01000US',inplace=True)
+
+# Create rankings for variables
+cvars=['sample2014','samplesize_pct','avgpop','popchange','pctchange']
+cvars_nr=['sample2014','avgpop','popchange']
+rvars=[]
+for c in cvars:
+    joined_sd[c+'_rank']=joined_sd[c].rank(method='min')
+    joined_cv[c+'_rank']=joined_cv[c].rank(method='min')
+    rvars.append(c+'_rank')
+
+sdcorr=[]
+cvcorr=[]
+
+# Tests on ranked variables
+for v in rvars:
+    corr=stats.spearmanr(joined_sd['true'],joined_sd[v],nan_policy='omit')
+    cresult=[v,str(round(corr.statistic,3)),str(round(corr.pvalue,3))]
+    sdcorr.append(cresult)
+    print('SD',v,corr.statistic,corr.pvalue)
+    corr=stats.spearmanr(joined_cv['medhigh'],joined_cv[v],nan_policy='omit')
+    cresult=[v,str(round(corr.statistic,3)),str(round(corr.pvalue,3))]
+    cvcorr.append(cresult)
+    print('CV',v,corr.statistic,corr.pvalue)
+    
+print('\n')
+
+# For comparison, test on unranked integer variables
+for nr in cvars_nr:
+    corr=stats.spearmanr(joined_sd['true'],joined_sd[nr],nan_policy='omit')
+    print('SD',nr,corr.statistic,corr.pvalue)
+    corr=stats.spearmanr(joined_cv['medhigh'],joined_cv[nr],nan_policy='omit')
+    print('CV',nr,corr.statistic,corr.pvalue)
+    
+outfile=os.path.join(geo_dir,'spearman_results_total.txt')    
+with open (outfile,'w') as txt_file:
+    txt_file.write("SPEARMAN'S CORRELATIONS AND P VALUES FOR ACS ESTIMATES\n\n")
+    txt_file.write("For Counts of Geographies that are: \n")
+    txt_file.write("\nSignificantly Different = True between 2014 and 2019\n")
+    for rec in sdcorr:
+        txt_file.writelines('\t'.join(rec)+'\n')
+    txt_file.write("\nMedium / High CV for Change for Sig Different Values \n")
+    for rec in cvcorr:
+        txt_file.writelines('\t'.join(rec)+'\n')
+
+print('Done!')
